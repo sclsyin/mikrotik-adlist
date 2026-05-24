@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-! Version: 1.0.20.69
-! Last modified: 2026-05-10T08:50:53.787Z
+! Version: 1.0.20.83
+! Last modified: 2026-05-24T08:19:45.370Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 1000fapvids.online
 0.0.0.0 1stfinancefirm.wixsite.com
@@ -36,16 +36,17 @@
 0.0.0.0 airupsrbija.com
 0.0.0.0 aizipai.cn
 0.0.0.0 akulaku.me
+0.0.0.0 aldi-life.vip
 0.0.0.0 alindflepkaty14.pages.dev
 0.0.0.0 aliyaoberbrunnergreg21.myshopify.com
 0.0.0.0 all-tube.pl
 0.0.0.0 allergyfl.com
 0.0.0.0 allnewsready.com
 0.0.0.0 allstarshirt.com
-0.0.0.0 allupdatenow.com
 0.0.0.0 altruetech.com
 0.0.0.0 altwi-zgs.com
 0.0.0.0 amorpulse.com
+0.0.0.0 animeshoppers.com
 0.0.0.0 anydebrid.com
 0.0.0.0 aoptee.com
 0.0.0.0 appdrive.info
@@ -78,6 +79,7 @@
 0.0.0.0 benxi.info
 0.0.0.0 bertasxt.com
 0.0.0.0 best-torrents.com
+0.0.0.0 bestvod.pl
 0.0.0.0 billboardwring.com
 0.0.0.0 binom0-web.com
 0.0.0.0 binomo-brokers.com
@@ -86,6 +88,7 @@
 0.0.0.0 binomo.app
 0.0.0.0 binomo.broker
 0.0.0.0 binomo.com
+0.0.0.0 binomo.in
 0.0.0.0 binomo.info
 0.0.0.0 binomo.vip
 0.0.0.0 binomo1.com
@@ -118,7 +121,6 @@
 0.0.0.0 bsnltower.com
 0.0.0.0 bsnltowerinstallations.com
 0.0.0.0 bsntowoff.com
-0.0.0.0 btc9339.com
 0.0.0.0 buddhakind.com
 0.0.0.0 budm.shop
 0.0.0.0 burgershirt.com
@@ -151,7 +153,6 @@
 0.0.0.0 cluckergifts.ecwid.com
 0.0.0.0 cma88.vip
 0.0.0.0 cmoboy.com
-0.0.0.0 cofdeal.com
 0.0.0.0 cognatesyringe.com
 0.0.0.0 coiincmi.com
 0.0.0.0 coinaps.com
@@ -160,6 +161,7 @@
 0.0.0.0 compoundexotics.com
 0.0.0.0 confira.io
 0.0.0.0 containably.com
+0.0.0.0 coolest3d.com
 0.0.0.0 coolestpod.com
 0.0.0.0 corg.co
 0.0.0.0 couponxoo.com
@@ -169,6 +171,7 @@
 0.0.0.0 cracksway.com
 0.0.0.0 crocssalenz.com
 0.0.0.0 crypto030.online
+0.0.0.0 cryptolnvest.com
 0.0.0.0 cryptot.net
 0.0.0.0 customizerbox.com
 0.0.0.0 customurink.com
@@ -229,14 +232,12 @@
 0.0.0.0 envisiongear.com
 0.0.0.0 eset.co.il
 0.0.0.0 esl-gaming.com
-0.0.0.0 eslgrandscup.com
 0.0.0.0 estiloserena.com.br
 0.0.0.0 etaindia.org
 0.0.0.0 etaindiaonline.com
 0.0.0.0 etv-in.com
 0.0.0.0 eudoraz.com
 0.0.0.0 eudshop.shop
-0.0.0.0 eventmusk-x.com
 0.0.0.0 eviralstore.com
 0.0.0.0 evisa-india-online.com
 0.0.0.0 evisa-indian.com
@@ -286,10 +287,10 @@
 0.0.0.0 finnews7.wordpress.com
 0.0.0.0 fishingdaily.shop
 0.0.0.0 fitgirl-repacks-site.org
-0.0.0.0 fitgirl-repacks.vip
 0.0.0.0 fiusps.com
 0.0.0.0 fixpub.com
 0.0.0.0 flattee.com
+0.0.0.0 flwzen.com
 0.0.0.0 folkrbvi.pages.dev
 0.0.0.0 food-network.fwh.is
 0.0.0.0 freebitcoin.pages.dev
@@ -312,6 +313,7 @@
 0.0.0.0 gearanime.com
 0.0.0.0 gearhomies.com
 0.0.0.0 gearhuman.com
+0.0.0.0 gearstastic.com
 0.0.0.0 gearver.com
 0.0.0.0 geekupdates.notion.site
 0.0.0.0 geldencosmeticos.com
@@ -337,7 +339,6 @@
 0.0.0.0 govmedcareers.com
 0.0.0.0 gsport.com
 0.0.0.0 gtlinfrastructurelimited.com
-0.0.0.0 gunstee.com
 0.0.0.0 habtoorloyal.com
 0.0.0.0 hairyfy.com
 0.0.0.0 happymod.cloud
@@ -359,7 +360,6 @@
 0.0.0.0 hudson-bay.com
 0.0.0.0 hushlove.com
 0.0.0.0 hyndtren25.pages.dev
-0.0.0.0 i-grade.online
 0.0.0.0 i-visaindia.com
 0.0.0.0 iagadvanced.com
 0.0.0.0 iaqorwr.com
@@ -400,7 +400,7 @@
 0.0.0.0 indiavisa.com.sg
 0.0.0.0 indiavisa.my
 0.0.0.0 indiavisa.org
-0.0.0.0 indiavisaonline.org
+0.0.0.0 industower.org
 0.0.0.0 infinityto.com
 0.0.0.0 info-flirtme.com
 0.0.0.0 info-milfroom.com
@@ -422,6 +422,7 @@
 0.0.0.0 karanpcofficial.blogspot.com
 0.0.0.0 kesug.com
 0.0.0.0 kigurumi-usa.com
+0.0.0.0 killercharm.com
 0.0.0.0 kingcampoutdoors.co.jp
 0.0.0.0 kino-cda.pl
 0.0.0.0 kinomaniak.cc
@@ -465,10 +466,11 @@
 0.0.0.0 lucatee.com
 0.0.0.0 lucidtiger.com
 0.0.0.0 luckyhomie.com
+0.0.0.0 lucysstyle.com
 0.0.0.0 luxsgear.com
+0.0.0.0 m.coinexeu.vip
 0.0.0.0 maebl.com
 0.0.0.0 mail-cytanet.pages.dev
-0.0.0.0 malgorzataschlegel.click
 0.0.0.0 mango-desert-09ebb4010.4.azurestaticapps.net
 0.0.0.0 maxdebrid.com
 0.0.0.0 mayor4london.com
@@ -488,6 +490,7 @@
 0.0.0.0 modmobile24.com
 0.0.0.0 monkstars.com
 0.0.0.0 ms-analytics.mywire.org
+0.0.0.0 msgclick.top
 0.0.0.0 mslfgl434.pages.dev
 0.0.0.0 mujib-store28.blogspot.com
 0.0.0.0 muskai.net
@@ -549,7 +552,6 @@
 0.0.0.0 navi89.com
 0.0.0.0 navi9.com
 0.0.0.0 navi90.com
-0.0.0.0 navi95.com
 0.0.0.0 navi98.com
 0.0.0.0 navi99.com
 0.0.0.0 nayatowerinstallation.in.net
@@ -580,7 +582,6 @@
 0.0.0.0 nip9.com
 0.0.0.0 nip98.com
 0.0.0.0 nirvezal.com
-0.0.0.0 nobrerefino.com
 0.0.0.0 nofotballshop.com
 0.0.0.0 nonofy.com
 0.0.0.0 norfotball.com
@@ -598,6 +599,7 @@
 0.0.0.0 official.olymptrade-my.com
 0.0.0.0 officialkmspico.com
 0.0.0.0 oflike.com
+0.0.0.0 ojlkimed.vip
 0.0.0.0 okdebrid.com
 0.0.0.0 oldcube.com
 0.0.0.0 olive121407.studio.site
@@ -659,8 +661,8 @@
 0.0.0.0 punchonsol.top
 0.0.0.0 qq51f.short.gy
 0.0.0.0 quitasueno.com
-0.0.0.0 quoka.dk9zc9.pro
 0.0.0.0 quotex.com.in
+0.0.0.0 re-captha-version-3-277.buzz
 0.0.0.0 resources4gaming.com
 0.0.0.0 revanced-extended.com
 0.0.0.0 revancedmusic.com
@@ -761,6 +763,7 @@
 0.0.0.0 successglossary.com
 0.0.0.0 sugarandpearl.com
 0.0.0.0 suitablepartner.life
+0.0.0.0 summersale.co
 0.0.0.0 summersale.online
 0.0.0.0 supercutestuff.com
 0.0.0.0 superuniswap.xyz
@@ -845,7 +848,6 @@
 0.0.0.0 uniswaptoken.xyz
 0.0.0.0 uniswaptrading.xyz
 0.0.0.0 universityofqatarrectorate.godaddysites.com
-0.0.0.0 updatesnow.click
 0.0.0.0 uplevelreward.com
 0.0.0.0 uprising.kip.pro
 0.0.0.0 ureashi.com
@@ -863,7 +865,6 @@
 0.0.0.0 vessisdeutschland.com
 0.0.0.0 vider-cda.online
 0.0.0.0 vider-pl.pl
-0.0.0.0 vider.cc
 0.0.0.0 vider.com.pl
 0.0.0.0 vider.info.pl
 0.0.0.0 vider.online
@@ -895,8 +896,6 @@
 0.0.0.0 wallpaperflare.com
 0.0.0.0 warriordecor.com
 0.0.0.0 watchmark.shop
-0.0.0.0 watchseniorfit.com
-0.0.0.0 wavetshirt.com
 0.0.0.0 wazofurniture.com
 0.0.0.0 weathly.com
 0.0.0.0 webvod.pl
@@ -949,6 +948,7 @@
 0.0.0.0 zedbubble.com
 0.0.0.0 zerknij-tv.pl
 0.0.0.0 zerorolex.com
+0.0.0.0 zerowasteinitiative.com
 0.0.0.0 zhongda.info
 0.0.0.0 zlibrary.to
 0.0.0.0 zobaczfilm.com

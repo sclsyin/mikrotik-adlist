@@ -1,7 +1,24 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.16.71
-! Last modified: 2026-05-10T08:51:04.108Z
+! Version: 1.0.16.80
+! Last modified: 2026-05-24T08:19:57.071Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 dyn.addr.tools
+0.0.0.0 changeip.co.uk
+0.0.0.0 dynamicdns.co.uk
+0.0.0.0 no-ip.co.uk
+0.0.0.0 dyn.columbia.edu
+0.0.0.0 ddns.com.br
+0.0.0.0 ddns.com.co
+0.0.0.0 dynamicdns.com.co
+0.0.0.0 winco.com.br
+0.0.0.0 dyn.dns.he.net
+0.0.0.0 4040.idv.tw
+0.0.0.0 ddns.me.uk
+0.0.0.0 dynamicdns.me.uk
+0.0.0.0 d-n-s.org.uk
+0.0.0.0 dynamicdns.org.uk
+0.0.0.0 limit.org.uk
+0.0.0.0 h4g3z1-dyndns.web.app
 0.0.0.0 0000000000000000000000.com
 0.0.0.0 0x.no
 0.0.0.0 100mountain.com
@@ -45,14 +62,15 @@
 0.0.0.0 99tac.com
 0.0.0.0 abatek.com
 0.0.0.0 abmetalmecanica.com
+0.0.0.0 abrdns.com
 0.0.0.0 access.ly
 0.0.0.0 accesscam.org
 0.0.0.0 acmetoy.com
 0.0.0.0 adagio.tw
-0.0.0.0 dyn.addr.tools
 0.0.0.0 afraid.org
 0.0.0.0 agropeople.ru
 0.0.0.0 aintno.info
+0.0.0.0 airdns.org
 0.0.0.0 airlinemeals.net
 0.0.0.0 albertn.ru
 0.0.0.0 allez.la
@@ -178,6 +196,7 @@
 0.0.0.0 cleansite.us
 0.0.0.0 clickip.de
 0.0.0.0 clienturl.net
+0.0.0.0 cloud-ip.biz
 0.0.0.0 cloudns.asia
 0.0.0.0 cloudns.be
 0.0.0.0 cloudns.biz
@@ -194,18 +213,10 @@
 0.0.0.0 cloudwatch.net
 0.0.0.0 cloudxns.net
 0.0.0.0 cnstefancelmare.ro
-0.0.0.0 changeip.co.uk
-0.0.0.0 dynamicdns.co.uk
-0.0.0.0 no-ip.co.uk
 0.0.0.0 coalnet.ru
 0.0.0.0 codns.com
 0.0.0.0 colegiotorrevilano.es
 0.0.0.0 collegefan.org
-0.0.0.0 dyn.columbia.edu
-0.0.0.0 ddns.com.br
-0.0.0.0 ddns.com.co
-0.0.0.0 dynamicdns.com.co
-0.0.0.0 winco.com.br
 0.0.0.0 compress.to
 0.0.0.0 compuinter.com
 0.0.0.0 computersforpeace.net
@@ -217,6 +228,7 @@
 0.0.0.0 coreytech.com
 0.0.0.0 couchpotatofries.org
 0.0.0.0 counterlight.com
+0.0.0.0 cpct.com
 0.0.0.0 cpsnet.cz
 0.0.0.0 crabdance.com
 0.0.0.0 crackedsidewalks.com
@@ -327,7 +339,6 @@
 0.0.0.0 doomdns.com
 0.0.0.0 doomdns.org
 0.0.0.0 dougtreadwell.com
-0.0.0.0 doyleandprendergast.com
 0.0.0.0 dp76.com
 0.0.0.0 dpcube.com
 0.0.0.0 dray-dns.de
@@ -372,6 +383,7 @@
 0.0.0.0 dynamai.com
 0.0.0.0 dynamic.domains
 0.0.0.0 dynamic-dns.net
+0.0.0.0 dynamic-dns.us
 0.0.0.0 dynamic-m.com
 0.0.0.0 dynamic-site.net
 0.0.0.0 dynamicdns.biz
@@ -481,6 +493,7 @@
 0.0.0.0 ezxdev.org
 0.0.0.0 f-parts.net
 0.0.0.0 f3322.net
+0.0.0.0 f3322.org
 0.0.0.0 fairuse.org
 0.0.0.0 falcongreen.com
 0.0.0.0 familyds.com
@@ -497,6 +510,7 @@
 0.0.0.0 fin-tech.com
 0.0.0.0 fintech-llc.com
 0.0.0.0 fivepals.com
+0.0.0.0 flashhub.net
 0.0.0.0 flat4free.com
 0.0.0.0 flazzard.com
 0.0.0.0 flnet.org
@@ -515,6 +529,7 @@
 0.0.0.0 freeddns.org
 0.0.0.0 freeddns.uk
 0.0.0.0 freeddns.us
+0.0.0.0 freedns.tech
 0.0.0.0 freedynamicdns.net
 0.0.0.0 freedynamicdns.org
 0.0.0.0 freemyip.com
@@ -594,6 +609,7 @@
 0.0.0.0 gettrails.com
 0.0.0.0 gettrials.com
 0.0.0.0 ghostnation.org
+0.0.0.0 gicp.net
 0.0.0.0 gigaportal.pl
 0.0.0.0 giize.com
 0.0.0.0 glddns.com
@@ -638,7 +654,6 @@
 0.0.0.0 happyforever.com
 0.0.0.0 hatenboer.org
 0.0.0.0 hbmc.net
-0.0.0.0 dyn.dns.he.net
 0.0.0.0 health-carereform.com
 0.0.0.0 her.name
 0.0.0.0 here-for-more.info
@@ -648,6 +663,7 @@
 0.0.0.0 hiddencorner.org
 0.0.0.0 hijaxdesigns.com
 0.0.0.0 hin.tw
+0.0.0.0 hiprinter.com
 0.0.0.0 his.name
 0.0.0.0 hitremixes.com
 0.0.0.0 hldns.ru
@@ -694,7 +710,6 @@
 0.0.0.0 ideasciviles.com
 0.0.0.0 idigo.org
 0.0.0.0 idleplay.net
-0.0.0.0 4040.idv.tw
 0.0.0.0 ieserver.net
 0.0.0.0 ignorelist.com
 0.0.0.0 iiiii.info
@@ -906,8 +921,6 @@
 0.0.0.0 maurinfor.com
 0.0.0.0 mcsoft.org
 0.0.0.0 mcwrite.net
-0.0.0.0 ddns.me.uk
-0.0.0.0 dynamicdns.me.uk
 0.0.0.0 medbury.com
 0.0.0.0 medittech.com
 0.0.0.0 mefound.com
@@ -1024,7 +1037,6 @@
 0.0.0.0 natrofa.com
 0.0.0.0 ndcg.com
 0.0.0.0 neat-url.com
-0.0.0.0 nedvighimost-sochi.ru
 0.0.0.0 nerdcamp.net
 0.0.0.0 nerdpol.ovh
 0.0.0.0 net-freaks.com
@@ -1096,9 +1108,6 @@
 0.0.0.0 ooguy.com
 0.0.0.0 opior.com
 0.0.0.0 oray.com
-0.0.0.0 d-n-s.org.uk
-0.0.0.0 dynamicdns.org.uk
-0.0.0.0 limit.org.uk
 0.0.0.0 organiccrap.com
 0.0.0.0 orskkino.ru
 0.0.0.0 otzo.com
@@ -1109,13 +1118,13 @@
 0.0.0.0 partycenteronline.com
 0.0.0.0 patelmortgage.com
 0.0.0.0 paulkelly.org
+0.0.0.0 pdns.cz
 0.0.0.0 peachyweb.com
 0.0.0.0 pedie.info
 0.0.0.0 pendulumaudio.com
 0.0.0.0 peregrineair.com
 0.0.0.0 pgafan.net
 0.0.0.0 phenixs.org
-0.0.0.0 photo-cult.com
 0.0.0.0 photo-frame.com
 0.0.0.0 php-dev.net
 0.0.0.0 pics.mu
@@ -1184,6 +1193,7 @@
 0.0.0.0 root64.de
 0.0.0.0 roth.ca
 0.0.0.0 route64.de
+0.0.0.0 roxa.org
 0.0.0.0 rpz.su
 0.0.0.0 rtam.net
 0.0.0.0 rum.si
@@ -1316,12 +1326,14 @@
 0.0.0.0 sundby.com
 0.0.0.0 surak.kz
 0.0.0.0 surfnet.ca
+0.0.0.0 suroot.com
 0.0.0.0 swtest.ru
 0.0.0.0 syno-ds.de
 0.0.0.0 synology-diskstation.de
 0.0.0.0 synology-ds.de
 0.0.0.0 synoserver.com
 0.0.0.0 sysadminetworks.com
+0.0.0.0 system-ns.com
 0.0.0.0 systes.net
 0.0.0.0 sytes.net
 0.0.0.0 tallison.com
@@ -1351,7 +1363,6 @@
 0.0.0.0 thingsnewandused.com
 0.0.0.0 thruhere.net
 0.0.0.0 tinyrealm.com
-0.0.0.0 tobuy.us
 0.0.0.0 toh.info
 0.0.0.0 topdns.com
 0.0.0.0 topsddns.net
@@ -1374,6 +1385,7 @@
 0.0.0.0 twsuser.com
 0.0.0.0 tzo.com
 0.0.0.0 ucvradio.cl
+0.0.0.0 udp64.de
 0.0.0.0 ufcfan.org
 0.0.0.0 ufodns.com
 0.0.0.0 ugo.si
@@ -1400,6 +1412,8 @@
 0.0.0.0 venez.net
 0.0.0.0 verymad.net
 0.0.0.0 viamisoftware.com
+0.0.0.0 vicp.cc
+0.0.0.0 vicp.net
 0.0.0.0 vietnamddns.com
 0.0.0.0 viewdns.net
 0.0.0.0 viiic.net
@@ -1418,7 +1432,6 @@
 0.0.0.0 wakingmoon.com
 0.0.0.0 wan64.de
 0.0.0.0 wanip.ch
-0.0.0.0 h4g3z1-dyndns.web.app
 0.0.0.0 webhop.biz
 0.0.0.0 webhop.info
 0.0.0.0 webhop.me
