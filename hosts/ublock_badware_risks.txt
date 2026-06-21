@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
-! Version: 1.0.21.90
-! Last modified: 2026-05-31T07:31:17.755Z
+! Version: 1.0.21.99
+! Last modified: 2026-06-21T09:38:20.596Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 flexytalk.net
 0.0.0.0 vlc.de
@@ -483,6 +483,7 @@
 0.0.0.0 divibase.xyz
 0.0.0.0 lincolnforestlakeproject.com
 0.0.0.0 safeageplan.link
+0.0.0.0 safe-device.com
 0.0.0.0 webuzz.me
 0.0.0.0 coup-ling.net
 0.0.0.0 gokinjolove.jp
@@ -1690,6 +1691,7 @@
 0.0.0.0 ialoop.net
 0.0.0.0 amo.topescort.jp
 0.0.0.0 swlife.jp
+0.0.0.0 i.meetu.best
 0.0.0.0 webogram.ru
 0.0.0.0 xn--80affa3aj0al.xn--80asehdb
 0.0.0.0 tgram.ru
@@ -2309,6 +2311,7 @@
 0.0.0.0 getkmspico.com
 0.0.0.0 kmspico10.com
 0.0.0.0 officialkmspico.com
+0.0.0.0 polyfill.io
 0.0.0.0 googie-anaiytics.com
 0.0.0.0 bootcdn.net
 0.0.0.0 bootcss.com
@@ -2994,3 +2997,11 @@
 0.0.0.0 duskwander.com
 0.0.0.0 divinex.at
 0.0.0.0 ultraviolence.buzz
+0.0.0.0 unic0re.
+0.0.0.0 unicore.pw
+0.0.0.0 robtips50kj.blogspot.com
+0.0.0.0 checkmyapp.store
+0.0.0.0 shrtweb.site
+0.0.0.0 security-process.pages.dev
+0.0.0.0 bisque-bison-333202.hostingersite.com
+0.0.0.0 karedeutschland.com
