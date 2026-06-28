@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.17.21
-! Last modified: 2026-05-31T07:30:50.463Z
+! Version: 1.0.17.36
+! Last modified: 2026-06-28T08:42:00.949Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -185,6 +185,7 @@
 0.0.0.0 adcast.deviantart.com
 0.0.0.0 adcel.co
 0.0.0.0 adcell.de
+0.0.0.0 adcenter.net
 0.0.0.0 adclick.com
 0.0.0.0 adclient1.tucows.com
 0.0.0.0 adclixx.net
@@ -269,6 +270,7 @@
 0.0.0.0 admarvel.com
 0.0.0.0 admaster.com.cn
 0.0.0.0 admatchly.com
+0.0.0.0 adme2.click
 0.0.0.0 admedia.com
 0.0.0.0 admeld.com
 0.0.0.0 admeridianads.com
@@ -509,8 +511,6 @@
 0.0.0.0 ads.pinterest.com
 0.0.0.0 ads.planet.nl
 0.0.0.0 ads.pni.com
-0.0.0.0 ads.pof.com
-0.0.0.0 ads.powweb.com
 0.0.0.0 ads.printscr.com
 0.0.0.0 ads.prisacom.com
 0.0.0.0 ads.prod.webservices.mozgcp.net
@@ -809,7 +809,6 @@
 0.0.0.0 affiliatefuture.com
 0.0.0.0 affiliates.allposters.com
 0.0.0.0 affiliates.babylon.com
-0.0.0.0 affiliates.globat.com
 0.0.0.0 affiliates.streamray.com
 0.0.0.0 affiliates.thinkhost.net
 0.0.0.0 affiliates.thrixxx.com
@@ -966,7 +965,6 @@
 0.0.0.0 bagsurprise.com
 0.0.0.0 banik.redigy.cz
 0.0.0.0 banner.ambercoastcasino.com
-0.0.0.0 banner.buempliz-online.ch
 0.0.0.0 banner.cotedazurpalace.com
 0.0.0.0 banner.easyspace.com
 0.0.0.0 banner.elisa.net
@@ -989,12 +987,10 @@
 0.0.0.0 bannergrabber.internet.gr
 0.0.0.0 bannerimage.com
 0.0.0.0 bannermall.com
-0.0.0.0 bannermanager.bnr.bg
 0.0.0.0 bannerpower.com
 0.0.0.0 banners.adultfriendfinder.com
 0.0.0.0 banners.amigos.com
 0.0.0.0 banners.asiafriendfinder.com
-0.0.0.0 banners.babylon-x.com
 0.0.0.0 banners.bol.com.br
 0.0.0.0 banners.cams.com
 0.0.0.0 banners.czi.cz
@@ -1183,6 +1179,7 @@
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.scarabresearch.com
 0.0.0.0 cdn.segment.com
+0.0.0.0 cdn.smalk.ai
 0.0.0.0 cdnondemand.org
 0.0.0.0 cedato.com
 0.0.0.0 celtra.com
@@ -1279,7 +1276,6 @@
 0.0.0.0 clicks.njuskalo.hr
 0.0.0.0 clickserve.cc-dt.com
 0.0.0.0 clicksinfo.thefork.co.uk
-0.0.0.0 clicktag.de
 0.0.0.0 clickthruserver.com
 0.0.0.0 clickthrutraffic.com
 0.0.0.0 clicktrack.pubmatic.com
@@ -1289,6 +1285,7 @@
 0.0.0.0 clickxchange.com
 0.0.0.0 clickyab.com
 0.0.0.0 clickz.com
+0.0.0.0 client-logs-a.wbx2.com
 0.0.0.0 clientgear.com
 0.0.0.0 clientmetrics-pa.googleapis.com
 0.0.0.0 clikerz.net
@@ -1309,6 +1306,7 @@
 0.0.0.0 cnt1.pocitadlo.cz
 0.0.0.0 cnvlink.com
 0.0.0.0 cny.yoyo.org
+0.0.0.0 code.etracker.com
 0.0.0.0 codeadnetwork.com
 0.0.0.0 cognitiv.ai
 0.0.0.0 cointraffic.io
@@ -1355,6 +1353,7 @@
 0.0.0.0 copycarpenter.com
 0.0.0.0 copyrightaccesscontrols.com
 0.0.0.0 coremetrics.com
+0.0.0.0 correctedcode.com
 0.0.0.0 cosmosjackson.com
 0.0.0.0 count.rin.ru
 0.0.0.0 count.west263.com
@@ -1478,7 +1477,6 @@
 0.0.0.0 do-global.com
 0.0.0.0 dockdigestion.com
 0.0.0.0 dogcollarfavourbluff.com
-0.0.0.0 domaining.in
 0.0.0.0 domdex.com
 0.0.0.0 doqpm.click
 0.0.0.0 dotmetrics.net
@@ -1570,8 +1568,6 @@
 0.0.0.0 et.nytimes.com
 0.0.0.0 etahub.com
 0.0.0.0 etargetnet.com
-0.0.0.0 etracker.com
-0.0.0.0 etracker.de
 0.0.0.0 eu-adcenter.net
 0.0.0.0 eule1.pmu.fr
 0.0.0.0 eulerian.net
@@ -1584,6 +1580,7 @@
 0.0.0.0 eventexistence.com
 0.0.0.0 events-eu.freshsuccess.com
 0.0.0.0 events-us.freshsuccess.com
+0.0.0.0 events.hotjar.io
 0.0.0.0 everestads.net
 0.0.0.0 everesttech.net
 0.0.0.0 evergage.com
@@ -1800,7 +1797,6 @@
 0.0.0.0 hbb.afl.rakuten.co.jp
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 heap.com
-0.0.0.0 heimi-lwx.com
 0.0.0.0 hellobar.com
 0.0.0.0 helpcollar.com
 0.0.0.0 hentaicounter.com
@@ -1935,7 +1931,6 @@
 0.0.0.0 interreklame.de
 0.0.0.0 ioam.de
 0.0.0.0 ip.ro
-0.0.0.0 ip193.cn
 0.0.0.0 iperceptions.com
 0.0.0.0 ipredictive.com
 0.0.0.0 ipstack.com
@@ -1944,10 +1939,12 @@
 0.0.0.0 is-tracking-pixel-api-prod.appspot.com
 0.0.0.0 islandwebhelp.com
 0.0.0.0 itop.cz
+0.0.0.0 itrackly.com
 0.0.0.0 ivwbox.de
 0.0.0.0 ivykiosk.com
 0.0.0.0 iyfbodn.com
 0.0.0.0 iyfnzgb.com
+0.0.0.0 izcle.com
 0.0.0.0 j93557g.com
 0.0.0.0 jads.co
 0.0.0.0 jamexport.com
@@ -2205,6 +2202,7 @@
 0.0.0.0 metajaws.com
 0.0.0.0 metanetwork.com
 0.0.0.0 methodcash.com
+0.0.0.0 metrics-a.wbx2.com
 0.0.0.0 metrics-logger.spot.im
 0.0.0.0 metrics.api.drift.com
 0.0.0.0 metrics.articulate.com
@@ -2431,6 +2429,7 @@
 0.0.0.0 otto-images.developershed.com
 0.0.0.0 ourdreamstaticpages.pages.dev
 0.0.0.0 outbrain.com
+0.0.0.0 outerwords.com
 0.0.0.0 overconfidentfood.com
 0.0.0.0 overkick.com
 0.0.0.0 overture.com
@@ -2500,7 +2499,6 @@
 0.0.0.0 pippio.com
 0.0.0.0 piquantpigs.com
 0.0.0.0 pix.spot.im
-0.0.0.0 pixel.condenastdigital.com
 0.0.0.0 pixel.keywee.co
 0.0.0.0 pixel.sojern.com
 0.0.0.0 pixel.watch
@@ -2664,7 +2662,6 @@
 0.0.0.0 rate.ru
 0.0.0.0 rayjump.com
 0.0.0.0 rcadserver.com
-0.0.0.0 re-direct.pl
 0.0.0.0 reachjunction.com
 0.0.0.0 reactx.com
 0.0.0.0 readingguilt.com
@@ -2978,6 +2975,7 @@
 0.0.0.0 statcounter.com
 0.0.0.0 statdynamic.com
 0.0.0.0 static-tracking.klaviyo.com
+0.0.0.0 static.etracker.com
 0.0.0.0 static.fmpub.net
 0.0.0.0 static.itrack.it
 0.0.0.0 static.kameleoon.com
@@ -3167,7 +3165,6 @@
 0.0.0.0 toplista.mw.hu
 0.0.0.0 toplistcity.com
 0.0.0.0 topsir.com
-0.0.0.0 topsite.lv
 0.0.0.0 topsites.com.br
 0.0.0.0 topstats.com
 0.0.0.0 totemcash.com
@@ -3206,9 +3203,9 @@
 0.0.0.0 tracker.cdnbye.com
 0.0.0.0 tracker.colatv88xb.cc
 0.0.0.0 tracker.icerocket.com
-0.0.0.0 tracker.metricswave.com
 0.0.0.0 tracker.mmdlv.it
 0.0.0.0 tracker.samplicio.us
+0.0.0.0 tracking.cybertips.uk
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.hyros.com
 0.0.0.0 tracking.ibxlink.com
@@ -3278,6 +3275,8 @@
 0.0.0.0 truehits2.gits.net.th
 0.0.0.0 trust.titanhq.com
 0.0.0.0 trustx.org
+0.0.0.0 tsa-f.webex.com
+0.0.0.0 tsa.webex.com
 0.0.0.0 tsyndicate.com
 0.0.0.0 tsyndicate.net
 0.0.0.0 tubemogul.com
@@ -3401,7 +3400,6 @@
 0.0.0.0 webstat.channel4.com
 0.0.0.0 webstat.com
 0.0.0.0 webstat.net
-0.0.0.0 webtrackerplus.com
 0.0.0.0 webtraffic.se
 0.0.0.0 webtraxx.de
 0.0.0.0 webxcdn.com
@@ -3426,6 +3424,7 @@
 0.0.0.0 window.nixnet.cz
 0.0.0.0 wintricksbanner.googlepages.com
 0.0.0.0 wirecomic.com
+0.0.0.0 wirypaste.com
 0.0.0.0 wisepops.com
 0.0.0.0 witch-counter.de
 0.0.0.0 wittypopcorn.com
