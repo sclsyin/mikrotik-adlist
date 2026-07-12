@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.17.36
-! Last modified: 2026-06-28T09:22:28.313Z
+! Version: 1.0.17.45
+! Last modified: 2026-07-12T08:02:32.572Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -746,6 +746,7 @@
 0.0.0.0 adtrack.voicestar.com
 0.0.0.0 adtraction.com
 0.0.0.0 adtrade.net
+0.0.0.0 adtrk1.com
 0.0.0.0 adultadvertising.com
 0.0.0.0 adv-adserver.com
 0.0.0.0 adv.donejty.pl
@@ -768,12 +769,14 @@
 0.0.0.0 advertise.com
 0.0.0.0 advertiseireland.com
 0.0.0.0 advertiserurl.com
+0.0.0.0 advertising.amazon.de
 0.0.0.0 advertising.com
 0.0.0.0 advertisingbanners.com
 0.0.0.0 advertisingbox.com
 0.0.0.0 advertmarket.com
 0.0.0.0 advertmedia.de
 0.0.0.0 advertpro.ya.com
+0.0.0.0 advertracker.com
 0.0.0.0 advertserve.com
 0.0.0.0 advertwizard.com
 0.0.0.0 advideo.uimserv.net
@@ -829,7 +832,6 @@
 0.0.0.0 airpush.com
 0.0.0.0 aistat.net
 0.0.0.0 ak0gsh40.com
-0.0.0.0 alchemist.go2cloud.org
 0.0.0.0 alclick.com
 0.0.0.0 alenty.com
 0.0.0.0 alexa-sitestats.s3.amazonaws.com
@@ -847,6 +849,7 @@
 0.0.0.0 americash.com
 0.0.0.0 amidsttruly.com
 0.0.0.0 amung.us
+0.0.0.0 analytics-fe.digital-cloud-prem.medallia.eu
 0.0.0.0 analytics-production.hapyak.com
 0.0.0.0 analytics.adpost.org
 0.0.0.0 analytics.algoepico.net
@@ -885,6 +888,7 @@
 0.0.0.0 anrdoezrs.net
 0.0.0.0 anstrex.com
 0.0.0.0 anxiousapples.com
+0.0.0.0 api-ext.bixbitemarketing.com
 0.0.0.0 api.affiliations.site
 0.0.0.0 api.amplitude.com
 0.0.0.0 api.appmetrica.yandex.ru
@@ -971,7 +975,6 @@
 0.0.0.0 banner.finzoom.ro
 0.0.0.0 banner.goldenpalace.com
 0.0.0.0 banner.inyourpocket.com
-0.0.0.0 banner.linux.se
 0.0.0.0 banner.media-system.de
 0.0.0.0 banner.nixnet.cz
 0.0.0.0 banner.noblepoker.com
@@ -991,6 +994,7 @@
 0.0.0.0 banners.adultfriendfinder.com
 0.0.0.0 banners.amigos.com
 0.0.0.0 banners.asiafriendfinder.com
+0.0.0.0 banners.babylon-x.com
 0.0.0.0 banners.bol.com.br
 0.0.0.0 banners.cams.com
 0.0.0.0 banners.czi.cz
@@ -1142,6 +1146,7 @@
 0.0.0.0 calypsocapsule.com
 0.0.0.0 campaign.bharatmatrimony.com
 0.0.0.0 caniamedia.com
+0.0.0.0 capitalopera.com
 0.0.0.0 capriciouscorn.com
 0.0.0.0 captainbicycle.com
 0.0.0.0 captainstick.com
@@ -1300,6 +1305,7 @@
 0.0.0.0 cloudguppy.com
 0.0.0.0 clrstm.com
 0.0.0.0 cluster.adultworld.com
+0.0.0.0 clustrmaps.com
 0.0.0.0 cmp.dmgmediaprivacy.co.uk
 0.0.0.0 cmvrclicks000.com
 0.0.0.0 cnomy.com
@@ -1746,6 +1752,7 @@
 0.0.0.0 go.scmagazine.com
 0.0.0.0 go.xlirdr.com
 0.0.0.0 go2affise.com
+0.0.0.0 go2cloud.org
 0.0.0.0 godseedband.com
 0.0.0.0 goingplatinum.com
 0.0.0.0 goldstats.com
@@ -2492,6 +2499,7 @@
 0.0.0.0 pgpartner.com
 0.0.0.0 pheedo.com
 0.0.0.0 phoenix-adrunner.mycomputer.com
+0.0.0.0 pi.pdfjs.express
 0.0.0.0 piano.io
 0.0.0.0 pimproll.com
 0.0.0.0 ping.ublock.org
@@ -2585,7 +2593,6 @@
 0.0.0.0 protraffic.com
 0.0.0.0 provenpixel.com
 0.0.0.0 prpops.com
-0.0.0.0 prsitecheck.com
 0.0.0.0 prufenzo.xyz
 0.0.0.0 pstmrk.it
 0.0.0.0 pub.chez.com
@@ -2662,6 +2669,7 @@
 0.0.0.0 rate.ru
 0.0.0.0 rayjump.com
 0.0.0.0 rcadserver.com
+0.0.0.0 re-direct.pl
 0.0.0.0 reachjunction.com
 0.0.0.0 reactx.com
 0.0.0.0 readingguilt.com
@@ -2696,7 +2704,6 @@
 0.0.0.0 reklamdsp.com
 0.0.0.0 relmaxtop.com
 0.0.0.0 rememberdiscussion.com
-0.0.0.0 remox.com
 0.0.0.0 report-1.appmetrica.webvisor.com
 0.0.0.0 report-2.appmetrica.webvisor.com
 0.0.0.0 report-partners.appmetrica.yandex.net
@@ -2705,6 +2712,7 @@
 0.0.0.0 republika.onet.pl
 0.0.0.0 resalag.com
 0.0.0.0 rescuerhino.com
+0.0.0.0 researchlog.dbresearch.com
 0.0.0.0 resonantbrush.com
 0.0.0.0 resonate.com
 0.0.0.0 responsiveads.com
@@ -2738,6 +2746,7 @@
 0.0.0.0 rmedia.boston.com
 0.0.0.0 roaddynamics.com
 0.0.0.0 roar.com
+0.0.0.0 robotrefinery.com
 0.0.0.0 robotreplay.com
 0.0.0.0 rockabox.co
 0.0.0.0 rockagainst.com
@@ -3195,6 +3204,7 @@
 0.0.0.0 track.unear.net
 0.0.0.0 track.vcdc.com
 0.0.0.0 track.viewdeos.com
+0.0.0.0 track.wewilltrcku.com
 0.0.0.0 track1.viewdeos.com
 0.0.0.0 trackalyzer.com
 0.0.0.0 trackedlink.net
@@ -3204,7 +3214,10 @@
 0.0.0.0 tracker.colatv88xb.cc
 0.0.0.0 tracker.icerocket.com
 0.0.0.0 tracker.mmdlv.it
+0.0.0.0 tracker.optin-lead.com
 0.0.0.0 tracker.samplicio.us
+0.0.0.0 tracking.adstrategysites.com
+0.0.0.0 tracking.casheddy.com
 0.0.0.0 tracking.cybertips.uk
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.hyros.com
@@ -3217,6 +3230,7 @@
 0.0.0.0 tracking.netalerts.io
 0.0.0.0 tracking.olx-st.com
 0.0.0.0 tracking.orixa-media.com
+0.0.0.0 tracking.p-l-m.com
 0.0.0.0 tracking.wetter.at
 0.0.0.0 tracking01.walmart.com
 0.0.0.0 tracking101.com
@@ -3267,6 +3281,7 @@
 0.0.0.0 trkn.us
 0.0.0.0 trkoptimizer.com
 0.0.0.0 trkpnt.ongage.net
+0.0.0.0 trkweb.clinch.co
 0.0.0.0 trmit.com
 0.0.0.0 truckstomatoes.com
 0.0.0.0 truculentrate.com
@@ -3363,7 +3378,6 @@
 0.0.0.0 visual-pagerank.fr
 0.0.0.0 visualrevenue.com
 0.0.0.0 vivads.net
-0.0.0.0 vivtracking.com
 0.0.0.0 vmmpxl.com
 0.0.0.0 voicefive.com
 0.0.0.0 volatilevessel.com
