@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt
-! Version: 1.0.18.98
-! Last modified: 2026-07-12T07:02:00.228Z
+! Version: 1.0.19.16
+! Last modified: 2026-07-26T08:11:20.306Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: Dan Pollock's List
 ! Description: List for blocking ads and preventing user tracking
-! Version: 1.0.18.98
+! Version: 1.0.19.16
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-07-10T23:24:33.472Z
+! Last modified: 2026-07-24T20:34:14.119Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1674,6 +1674,7 @@
 0.0.0.0 commax.fr
 0.0.0.0 commdev.fr
 0.0.0.0 compe-nickel.fr
+0.0.0.0 completelove22.cc
 0.0.0.0 compufixshop.com
 0.0.0.0 comsss-56.com
 0.0.0.0 con-trnroayl.online
@@ -1956,6 +1957,7 @@
 0.0.0.0 gcn-1nterc.com
 0.0.0.0 gdudh473-chersfeye483.landmarksfeed.su
 0.0.0.0 gekowex.com
+0.0.0.0 genuinepeople.cc
 0.0.0.0 geolantis.fr
 0.0.0.0 geopostcodes.fr
 0.0.0.0 get-answers-fast.com
@@ -2964,6 +2966,7 @@
 0.0.0.0 thedatesafe.com			# Facebook trojan
 0.0.0.0 themusicnetwork.co.uk
 0.0.0.0 thenewswire.fr
+0.0.0.0 thesciencequest.info
 0.0.0.0 thesimsresource.fr
 0.0.0.0 thetorrentz.fr
 0.0.0.0 thickporter.sa.com
@@ -3184,6 +3187,7 @@
 0.0.0.0 www.alexyastro.com
 0.0.0.0 www.alittlelewd.com
 0.0.0.0 www.allhqpics.com			# Facebook trojan
+0.0.0.0 www.allinvideo.com
 0.0.0.0 www.allscrabble.com
 0.0.0.0 www.allstateproteectionplans.com
 0.0.0.0 www.allusermanual.com
@@ -3201,6 +3205,7 @@
 0.0.0.0 www.arfrepuestos.com
 0.0.0.0 www.arknasasbluecross.com
 0.0.0.0 www.artdualdesign.com
+0.0.0.0 www.artssets.com
 0.0.0.0 www.asianread.com
 0.0.0.0 www.assistdocklane.uk
 0.0.0.0 www.atightschedule.com
@@ -3247,6 +3252,7 @@
 0.0.0.0 www.blueridgecpp.com
 0.0.0.0 www.bmrneswk.com
 0.0.0.0 www.board-ly.com
+0.0.0.0 www.bocastyle.com
 0.0.0.0 www.bonuxsarrive.com
 0.0.0.0 www.bookstadium.com
 0.0.0.0 www.borocade.com
@@ -3298,6 +3304,7 @@
 0.0.0.0 www.ciderglowcm.site
 0.0.0.0 www.cidersunjt.com
 0.0.0.0 www.cjkassociates.co.in
+0.0.0.0 www.cjtest.com
 0.0.0.0 www.claimedmoney.com
 0.0.0.0 www.cleanvvlife.com
 0.0.0.0 www.cleanvvmagic.com
@@ -3315,6 +3322,7 @@
 0.0.0.0 www.combinebasic.com
 0.0.0.0 www.comfortykive.xyz
 0.0.0.0 www.commuteinfo.com
+0.0.0.0 www.compacfurniture.com
 0.0.0.0 www.complien.com
 0.0.0.0 www.compufixshop.com
 0.0.0.0 www.conclusioncompeting.bond
@@ -3328,11 +3336,13 @@
 0.0.0.0 www.corvettiortho.com
 0.0.0.0 www.courtneydowns.com
 0.0.0.0 www.cpatglobal.com
+0.0.0.0 www.cpension.com
 0.0.0.0 www.cprcar.com
 0.0.0.0 www.cqwallpaper.com
 0.0.0.0 www.creativesaftysupply.com
 0.0.0.0 www.crediainternational.com
 0.0.0.0 www.crowdnestfun.com
+0.0.0.0 www.cruzresorts.com
 0.0.0.0 www.crystalbranchtw.blog
 0.0.0.0 www.ctlcai.com
 0.0.0.0 www.dailyazure.com
@@ -3341,6 +3351,7 @@
 0.0.0.0 www.dartya.com
 0.0.0.0 www.dayanitastore.com
 0.0.0.0 www.daytonjaxx.com
+0.0.0.0 www.dbcorporation.com
 0.0.0.0 www.dealresponse.com
 0.0.0.0 www.dealshaat.com
 0.0.0.0 www.dealsrate.com
@@ -3368,6 +3379,7 @@
 0.0.0.0 www.dualeotruyenno.com
 0.0.0.0 www.duotrader.com
 0.0.0.0 www.dustinjonesgolfacademy.com
+0.0.0.0 www.dutchoutlet.com
 0.0.0.0 www.dymor.cfd
 0.0.0.0 www.dynamictyres.com
 0.0.0.0 www.dzzzsc.com
@@ -3379,6 +3391,7 @@
 0.0.0.0 www.ekkekkocapital.com
 0.0.0.0 www.elanactivewear.com
 0.0.0.0 www.electrobell.com
+0.0.0.0 www.elfralalo.com
 0.0.0.0 www.eljaleomedellin.com
 0.0.0.0 www.emailspend.com
 0.0.0.0 www.energiazoque.com
@@ -3442,6 +3455,7 @@
 0.0.0.0 www.futureowned.com
 0.0.0.0 www.gadgetbonanzamarket.com
 0.0.0.0 www.gaicodon.com
+0.0.0.0 www.gaiis.com
 0.0.0.0 www.gainwintz.com
 0.0.0.0 www.gamelthae.com
 0.0.0.0 www.gameltjae.com
@@ -3483,6 +3497,7 @@
 0.0.0.0 www.grouphappy.com
 0.0.0.0 www.growthbuilder.name
 0.0.0.0 www.guaranteeservice.lat
+0.0.0.0 www.guashastone.com
 0.0.0.0 www.haikuservices.com
 0.0.0.0 www.hajoopteg.com
 0.0.0.0 www.hakerzy.net
@@ -3500,6 +3515,7 @@
 0.0.0.0 www.hindudirectory.com
 0.0.0.0 www.hitchedbridalandformalwear.com
 0.0.0.0 www.hits-football.com
+0.0.0.0 www.hoabridal.com
 0.0.0.0 www.hocxaydung.com
 0.0.0.0 www.homininfossil.cfd
 0.0.0.0 www.hotelsdetermine.bond
@@ -3510,12 +3526,14 @@
 0.0.0.0 www.hunterspeed.com
 0.0.0.0 www.hypeprop.com
 0.0.0.0 www.hypetrust.com
+0.0.0.0 www.ibenefi.com
 0.0.0.0 www.icecars.com
 0.0.0.0 www.iconatsbs.com
 0.0.0.0 www.icygrovejn.com
 0.0.0.0 www.icyhivemy.name
 0.0.0.0 www.iejonline.com
 0.0.0.0 www.iepelnazareno.com
+0.0.0.0 www.iesaber.com
 0.0.0.0 www.igameup.com
 0.0.0.0 www.improvingthe.com
 0.0.0.0 www.indexprofile.com
@@ -3532,6 +3550,7 @@
 0.0.0.0 www.irlandalk.com
 0.0.0.0 www.irony.world
 0.0.0.0 www.isavs.com
+0.0.0.0 www.itemtools.com
 0.0.0.0 www.iwantclothing.com
 0.0.0.0 www.jackpotcasinojeux.com
 0.0.0.0 www.jacqueruth.com
@@ -3543,6 +3562,7 @@
 0.0.0.0 www.jewishgame.com
 0.0.0.0 www.jhsmiami.com
 0.0.0.0 www.jnhjf.com
+0.0.0.0 www.joinclap.com
 0.0.0.0 www.joinfx.net
 0.0.0.0 www.jovareo.com
 0.0.0.0 www.justdebug.com
@@ -3572,6 +3592,7 @@
 0.0.0.0 www.langleyantiques.com
 0.0.0.0 www.launchbuffer.com
 0.0.0.0 www.learngears.com
+0.0.0.0 www.learningfound.com
 0.0.0.0 www.learnnessy.com
 0.0.0.0 www.learntechno.com
 0.0.0.0 www.ledfaucetlight.com
@@ -3665,6 +3686,7 @@
 0.0.0.0 www.nobetsjustfun.com
 0.0.0.0 www.noithatphanthinh.com
 0.0.0.0 www.northvalesgrids.uk
+0.0.0.0 www.nostalgicroses.com
 0.0.0.0 www.notepad2.com
 0.0.0.0 www.novemberrainx.com
 0.0.0.0 www.novosantiago.com
@@ -3706,6 +3728,7 @@
 0.0.0.0 www.parejaamateur.com
 0.0.0.0 www.partsttown.com
 0.0.0.0 www.paseyourself.com
+0.0.0.0 www.patelshop.com
 0.0.0.0 www.paviro.cfd
 0.0.0.0 www.payasyougocert.com
 0.0.0.0 www.pcfixguide.help
@@ -3766,6 +3789,7 @@
 0.0.0.0 www.quartersnorth.lat
 0.0.0.0 www.quarvions.com
 0.0.0.0 www.quintingwatches.com
+0.0.0.0 www.quipla.com
 0.0.0.0 www.rackusread.com
 0.0.0.0 www.rajtoursdubai.com
 0.0.0.0 www.randki-sex.com
@@ -3795,6 +3819,7 @@
 0.0.0.0 www.robkellysurf.com
 0.0.0.0 www.romanticdemands.bond
 0.0.0.0 www.roofcoins.com
+0.0.0.0 www.roundtopbooks.com
 0.0.0.0 www.rplconnect.com
 0.0.0.0 www.rtkmyz.cfd
 0.0.0.0 www.rtpbolaslotjago.com
@@ -3949,6 +3974,7 @@
 0.0.0.0 www.waterchalk.com
 0.0.0.0 www.waterchamber.com
 0.0.0.0 www.webassembly.stream
+0.0.0.0 www.webdesignmetric.com
 0.0.0.0 www.webdevotee.com
 0.0.0.0 www.webmicrostores.com
 0.0.0.0 www.webontwerp.com

@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-! Version: 1.0.17.45
-! Last modified: 2026-07-12T07:01:56.843Z
+! Version: 1.0.17.51
+! Last modified: 2026-07-26T08:11:16.583Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 101com.com
 0.0.0.0 180hits.de
@@ -18,6 +18,7 @@
 0.0.0.0 30ads.com
 0.0.0.0 3337723.com
 0.0.0.0 33across.com
+0.0.0.0 360yield-basic.com
 0.0.0.0 360yield.com
 0.0.0.0 3lift.com
 0.0.0.0 3o9s.short.gy
@@ -143,7 +144,6 @@
 0.0.0.0 ad.virtual-nights.com
 0.0.0.0 ad.wavu.hu
 0.0.0.0 ad.weatherbug.com
-0.0.0.0 ad.wsod.com
 0.0.0.0 ad.wz.cz
 0.0.0.0 ad.xiaomi.com
 0.0.0.0 ad.xmovies8.si
@@ -590,7 +590,6 @@
 0.0.0.0 ads1.virtual-nights.com
 0.0.0.0 ads10.speedbit.com
 0.0.0.0 ads180.com
-0.0.0.0 ads2.brazzers.com
 0.0.0.0 ads2.contentabc.com
 0.0.0.0 ads2.femmefab.nl
 0.0.0.0 ads2.gamecity.net
@@ -765,7 +764,6 @@
 0.0.0.0 advert.dyna.ultraweb.hu
 0.0.0.0 adverticum.com
 0.0.0.0 adverticum.net
-0.0.0.0 advertipros.com
 0.0.0.0 advertise.com
 0.0.0.0 advertiseireland.com
 0.0.0.0 advertiserurl.com
@@ -811,7 +809,6 @@
 0.0.0.0 affiliate.treated.com
 0.0.0.0 affiliatefuture.com
 0.0.0.0 affiliates.allposters.com
-0.0.0.0 affiliates.babylon.com
 0.0.0.0 affiliates.streamray.com
 0.0.0.0 affiliates.thinkhost.net
 0.0.0.0 affiliates.thrixxx.com
@@ -1483,6 +1480,7 @@
 0.0.0.0 do-global.com
 0.0.0.0 dockdigestion.com
 0.0.0.0 dogcollarfavourbluff.com
+0.0.0.0 domaining.in
 0.0.0.0 domdex.com
 0.0.0.0 doqpm.click
 0.0.0.0 dotmetrics.net
@@ -1732,7 +1730,6 @@
 0.0.0.0 getclicky.com
 0.0.0.0 getintent.com
 0.0.0.0 getmyads.com
-0.0.0.0 getxmlisi.com
 0.0.0.0 giddycoat.com
 0.0.0.0 glasscoyote.com
 0.0.0.0 glisteningsign.com
@@ -1767,7 +1764,6 @@
 0.0.0.0 goqon.com
 0.0.0.0 gostats.com
 0.0.0.0 gothamads.com
-0.0.0.0 gotoyahoo.com
 0.0.0.0 gotraffic.net
 0.0.0.0 gp.dejanews.com
 0.0.0.0 grandfatherguitar.com
@@ -2108,8 +2104,6 @@
 0.0.0.0 logsss.com
 0.0.0.0 logua.com
 0.0.0.0 look.djfiln.com
-0.0.0.0 look.ichlnk.com
-0.0.0.0 look.opskln.com
 0.0.0.0 look.ufinkln.com
 0.0.0.0 loopme.com
 0.0.0.0 loudlunch.com
@@ -2133,6 +2127,7 @@
 0.0.0.0 madvertise.de
 0.0.0.0 magicadz.co
 0.0.0.0 magicaljoin.com
+0.0.0.0 magnetise.io
 0.0.0.0 magsrv.com
 0.0.0.0 mail-ads.google.com
 0.0.0.0 maltiverse.lt.acemlnc.com
@@ -2619,7 +2614,6 @@
 0.0.0.0 pxf.io
 0.0.0.0 pxl-mailtracker.com
 0.0.0.0 pxl.iqm.com
-0.0.0.0 pymx5.com
 0.0.0.0 q.azcentral.com
 0.0.0.0 q1connect.com
 0.0.0.0 qa-analytics.com
@@ -2710,7 +2704,6 @@
 0.0.0.0 report.ap.yandex-net.ru
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 republika.onet.pl
-0.0.0.0 resalag.com
 0.0.0.0 rescuerhino.com
 0.0.0.0 researchlog.dbresearch.com
 0.0.0.0 resonantbrush.com
@@ -2783,7 +2776,6 @@
 0.0.0.0 s20dh7e9dh.com
 0.0.0.0 s2d6.com
 0.0.0.0 sabio.us
-0.0.0.0 sadloaf.com
 0.0.0.0 safeoffers.pro
 0.0.0.0 sail-horizon.com
 0.0.0.0 samplesamba.com
@@ -2968,7 +2960,6 @@
 0.0.0.0 stakingsmile.com
 0.0.0.0 stalesummer.com
 0.0.0.0 starffa.com
-0.0.0.0 starkscale.com
 0.0.0.0 starrynets.com
 0.0.0.0 starsmarter.com
 0.0.0.0 startapp.com
@@ -3333,7 +3324,6 @@
 0.0.0.0 urlcash.net
 0.0.0.0 us.a1.yimg.com
 0.0.0.0 userreplay.com
-0.0.0.0 userreplay.net
 0.0.0.0 users.maxcluster.net
 0.0.0.0 utils.mediageneral.net
 0.0.0.0 utl-1.com
@@ -3358,6 +3348,7 @@
 0.0.0.0 vertamedia.com
 0.0.0.0 verticalmass.com
 0.0.0.0 vervewireless.com
+0.0.0.0 verybark.com
 0.0.0.0 vgnp3trk.com
 0.0.0.0 vibrantsundown.com
 0.0.0.0 vid.pubmatic.com
@@ -3366,7 +3357,6 @@
 0.0.0.0 videoadex.com
 0.0.0.0 videoadstech.org
 0.0.0.0 videoegg.com
-0.0.0.0 videostats.kakao.com
 0.0.0.0 vidora.com
 0.0.0.0 view4cash.de
 0.0.0.0 viglink.com
@@ -3414,10 +3404,10 @@
 0.0.0.0 webstat.channel4.com
 0.0.0.0 webstat.com
 0.0.0.0 webstat.net
+0.0.0.0 webtrackerplus.com
 0.0.0.0 webtraffic.se
 0.0.0.0 webtraxx.de
 0.0.0.0 webxcdn.com
-0.0.0.0 welved.com
 0.0.0.0 werbung.meteoxpress.com
 0.0.0.0 wetrack.it
 0.0.0.0 whaleads.com
@@ -3432,13 +3422,13 @@
 0.0.0.0 wickedreports.com
 0.0.0.0 widget.educationdynamics.com
 0.0.0.0 widget.privy.com
+0.0.0.0 widgets.teads-xo.com
 0.0.0.0 wikia-ads.wikia.com
 0.0.0.0 wikiquotations.com
 0.0.0.0 win.iqm.com
 0.0.0.0 window.nixnet.cz
 0.0.0.0 wintricksbanner.googlepages.com
 0.0.0.0 wirecomic.com
-0.0.0.0 wirypaste.com
 0.0.0.0 wisepops.com
 0.0.0.0 witch-counter.de
 0.0.0.0 wittypopcorn.com
