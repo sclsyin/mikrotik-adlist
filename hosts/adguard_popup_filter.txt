@@ -1,7 +1,15 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.18.41
-! Last modified: 2026-07-12T07:02:01.976Z
+! Version: 1.0.18.53
+! Last modified: 2026-08-16T06:25:34.675Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 supersedeaccolade.com
+0.0.0.0 gamengirls.com
+0.0.0.0 cno.jerkmate.net
+0.0.0.0 arx8x.net
+0.0.0.0 mercu-wgp.com
+0.0.0.0 dzqxwy.com
+0.0.0.0 ormatenqron.com
+0.0.0.0 pulse.neurostreamlink10.cfd
 0.0.0.0 dskcwz.com
 0.0.0.0 clk.ourdream.ai
 0.0.0.0 twimg.cash
@@ -210,6 +218,7 @@
 0.0.0.0 d3t3bxixsojwre.cloudfront.net
 0.0.0.0 0i0i0i0.com
 0.0.0.0 1asb.com
+0.0.0.0 2osb.com
 0.0.0.0 30dcf.com
 0.0.0.0 367p.com
 0.0.0.0 3ckz.com
@@ -254,14 +263,11 @@
 0.0.0.0 affroller.com
 0.0.0.0 aftrk3.com
 0.0.0.0 agat-tech.com
-0.0.0.0 aifolr.com
 0.0.0.0 aimging.com
 0.0.0.0 ak-is2.net
 0.0.0.0 albonsa.com
 0.0.0.0 alexatracker.com
-0.0.0.0 algesismesse.cyou
 0.0.0.0 alpine-vpn.com
-0.0.0.0 amichi.info
 0.0.0.0 amusing-injury.com
 0.0.0.0 animeloundry.com
 0.0.0.0 antiadblocksystems.com
@@ -319,6 +325,7 @@
 0.0.0.0 casinobonusdeals.io
 0.0.0.0 cauditcommernal.com
 0.0.0.0 cautommityring.com
+0.0.0.0 cawsg.com
 0.0.0.0 cddtsecure.com
 0.0.0.0 ceramicturtleremnant.com
 0.0.0.0 checkcdn.net
@@ -329,6 +336,7 @@
 0.0.0.0 clickblitzo.com
 0.0.0.0 clickmintads.site
 0.0.0.0 clickpunch.icu
+0.0.0.0 cliphotbokep.xyz
 0.0.0.0 clixwells.com
 0.0.0.0 clladss.com
 0.0.0.0 cloudvideosa.com
@@ -336,8 +344,8 @@
 0.0.0.0 cm65.com
 0.0.0.0 cntrealize.com
 0.0.0.0 coastalbloom.xyz
-0.0.0.0 colleem.com
 0.0.0.0 conestreshow.com
+0.0.0.0 consultflow.click
 0.0.0.0 coolserving.com
 0.0.0.0 coosync.com
 0.0.0.0 coticoffee.com
@@ -382,6 +390,7 @@
 0.0.0.0 extsoft.info
 0.0.0.0 exxtended-access.com
 0.0.0.0 fantabro.com
+0.0.0.0 fantovix.shop
 0.0.0.0 fascespro.com
 0.0.0.0 fastdntrk.com
 0.0.0.0 finanvideos.com
@@ -392,7 +401,6 @@
 0.0.0.0 foruftuiov.com
 0.0.0.0 freetrckr.com
 0.0.0.0 frequentjam.com
-0.0.0.0 fruityarbors.cfd
 0.0.0.0 fstsrv9.com
 0.0.0.0 fuck-ads.vercel.app
 0.0.0.0 fzev75-rtbix.top
@@ -408,7 +416,6 @@
 0.0.0.0 gkrtmc.com
 0.0.0.0 gmmads.com
 0.0.0.0 go-srv.com
-0.0.0.0 go.betobet.net
 0.0.0.0 go2affise.com
 0.0.0.0 go2bdmbet.com
 0.0.0.0 go2offer-1.com
@@ -420,7 +427,6 @@
 0.0.0.0 gtbdhr.com
 0.0.0.0 gys5.com
 0.0.0.0 hagech.com
-0.0.0.0 harmo-woe.com
 0.0.0.0 haveameet.com
 0.0.0.0 helicient.com
 0.0.0.0 heptix.net
@@ -429,6 +435,7 @@
 0.0.0.0 hiasor.com
 0.0.0.0 highcpmgate.com
 0.0.0.0 hiiona.com
+0.0.0.0 hilltopads.net
 0.0.0.0 hnrgmc.com
 0.0.0.0 hoktrips.com
 0.0.0.0 hooligs.app
@@ -464,6 +471,7 @@
 0.0.0.0 kagonst.com
 0.0.0.0 kaminari.systems
 0.0.0.0 ker2clk.com
+0.0.0.0 kinetiksoft.com
 0.0.0.0 kstrk.com
 0.0.0.0 ku42hjr2e.com
 0.0.0.0 lamplynx.com
@@ -488,7 +496,7 @@
 0.0.0.0 mainexclkdir.com
 0.0.0.0 making.party
 0.0.0.0 maredpt.com
-0.0.0.0 marketingthing.click
+0.0.0.0 marovia.cc
 0.0.0.0 masterreviews.org
 0.0.0.0 maxconvtrk.com
 0.0.0.0 maxickedpantents.com
@@ -529,7 +537,6 @@
 0.0.0.0 navigatingnautical.xyz
 0.0.0.0 nersionitsumpute.com
 0.0.0.0 newmytrp.com
-0.0.0.0 next-lust.cfd
 0.0.0.0 nexusbloom.xyz
 0.0.0.0 nightbesties.com
 0.0.0.0 nithyshipsi.com
@@ -563,7 +570,6 @@
 0.0.0.0 ovardu.com
 0.0.0.0 oversolosisor.com
 0.0.0.0 ovret.com
-0.0.0.0 pacha-wui.com
 0.0.0.0 paehceman.com
 0.0.0.0 paid.outbrain.com
 0.0.0.0 paulastroid.com
@@ -601,6 +607,7 @@
 0.0.0.0 protected-redirect.click
 0.0.0.0 protection-suggestion.com
 0.0.0.0 provenpixel.com
+0.0.0.0 proxy4mmo.com
 0.0.0.0 pubadx.one
 0.0.0.0 pubtrky.com
 0.0.0.0 pupspu.com
@@ -617,9 +624,10 @@
 0.0.0.0 quixoticzest.com
 0.0.0.0 qwikln.com
 0.0.0.0 r8bz.com
+0.0.0.0 raceamen.com
 0.0.0.0 racunn.com
 0.0.0.0 radiancerelaysacred.com
-0.0.0.0 ragan-qdr.com
+0.0.0.0 rak8s.com
 0.0.0.0 rbtfit.com
 0.0.0.0 rcdn-web.com
 0.0.0.0 realsh.xyz
@@ -638,7 +646,6 @@
 0.0.0.0 rockwound.site
 0.0.0.0 rocoads.com
 0.0.0.0 rolltrk9.com
-0.0.0.0 romil-jdd.com
 0.0.0.0 roobetaffiliates.com
 0.0.0.0 roots.baby
 0.0.0.0 roundflow.net
@@ -652,6 +659,7 @@
 0.0.0.0 sabasadara.com
 0.0.0.0 safeonlinetips.com
 0.0.0.0 savinist.com
+0.0.0.0 scarfstartpickle.com
 0.0.0.0 schedulerationally.com
 0.0.0.0 security-suggestion.com
 0.0.0.0 security-u.com
@@ -661,7 +669,6 @@
 0.0.0.0 sgben.com
 0.0.0.0 shakingtacklingunpeeled.com
 0.0.0.0 shauladubhe.top
-0.0.0.0 sheitelhamatum.shop
 0.0.0.0 shoppinglifestyle.biz
 0.0.0.0 shotgunchancecruel.com
 0.0.0.0 signamentswithd.com
@@ -703,7 +710,6 @@
 0.0.0.0 tigerbrluck.com
 0.0.0.0 tiktok-fly.com
 0.0.0.0 tjwsg.com
-0.0.0.0 toequiet.website
 0.0.0.0 toiletpaper.life
 0.0.0.0 tomlldahehun.org
 0.0.0.0 toopsoug.net
@@ -734,7 +740,6 @@
 0.0.0.0 twigwisp.com
 0.0.0.0 twinrdsyte.com
 0.0.0.0 typical-hub.com
-0.0.0.0 u7do.sbs
 0.0.0.0 unlocky.org
 0.0.0.0 unlocky.xyz
 0.0.0.0 upodaitie.net
@@ -743,13 +748,11 @@
 0.0.0.0 validcombine.com
 0.0.0.0 vasstycom.com
 0.0.0.0 verdepromo.info
-0.0.0.0 veret-fqv.com
 0.0.0.0 vfgte.com
 0.0.0.0 vibrantscale.com
 0.0.0.0 viiadaof.com
 0.0.0.0 viibslav.com
 0.0.0.0 viiczfvm.com
-0.0.0.0 viikuhhs.com
 0.0.0.0 viiyutty.com
 0.0.0.0 viiyxefb.com
 0.0.0.0 vilytaku.com
@@ -760,7 +763,6 @@
 0.0.0.0 vizoalygrenn.com
 0.0.0.0 vmmcdn.com
 0.0.0.0 voluumtrk.com
-0.0.0.0 vstwerxerbc.top
 0.0.0.0 vulnerableimmigrateaboveaverage.com
 0.0.0.0 w0we.com
 0.0.0.0 want-some-psh.com
@@ -768,6 +770,7 @@
 0.0.0.0 wbidder3.com
 0.0.0.0 we-offer.com
 0.0.0.0 webfanclub.com
+0.0.0.0 webls.net
 0.0.0.0 webmedrtb.com
 0.0.0.0 wetrackgames.com
 0.0.0.0 wewearegogogo.com
@@ -896,7 +899,6 @@
 0.0.0.0 5movies.live
 0.0.0.0 741.net
 0.0.0.0 absurdbatchconfess.com
-0.0.0.0 adhoc4.net
 0.0.0.0 adme-net.com
 0.0.0.0 adpointbreakrtb.com
 0.0.0.0 adsrv.me
@@ -910,7 +912,6 @@
 0.0.0.0 amazing-dates.com
 0.0.0.0 angrilyanimatorcuddle.com
 0.0.0.0 antfa.link
-0.0.0.0 antivirusfit.co
 0.0.0.0 antj.link
 0.0.0.0 appendixwarmingauthors.com
 0.0.0.0 arthygeo.info
@@ -930,7 +931,6 @@
 0.0.0.0 cleardexchange.com
 0.0.0.0 click2m.org
 0.0.0.0 clickadilla.com
-0.0.0.0 clickcdn.co
 0.0.0.0 cloudgallery.net
 0.0.0.0 cloudtransfer.store
 0.0.0.0 cmvrclicks000.com
@@ -940,17 +940,14 @@
 0.0.0.0 daftsex.com
 0.0.0.0 dailyreports.info
 0.0.0.0 dalyai.com
-0.0.0.0 denetsuk.com
 0.0.0.0 diffusionsubletunnamed.com
 0.0.0.0 digital2cloud.com
 0.0.0.0 dimmerlingowashable.com
 0.0.0.0 directr.xyz
 0.0.0.0 dirlink.net
 0.0.0.0 dmsik.com
-0.0.0.0 dorogokupimnoutbuk.online
 0.0.0.0 dosya-indirici.online
 0.0.0.0 dpuplet.net
-0.0.0.0 dsfffmb.mobi
 0.0.0.0 e2ertt.com
 0.0.0.0 ecpms.net
 0.0.0.0 eemgl.com
@@ -959,8 +956,6 @@
 0.0.0.0 familiarpyromaniasloping.com
 0.0.0.0 fhvfd.com
 0.0.0.0 finchoiluntainted.com
-0.0.0.0 firstclick.pro
-0.0.0.0 fkourazirop.shop
 0.0.0.0 flixtab.com
 0.0.0.0 fr-dustreaming.com
 0.0.0.0 freelovehere.com
@@ -973,9 +968,6 @@
 0.0.0.0 gsurl.in
 0.0.0.0 gsurl.me
 0.0.0.0 hhsp2.com
-0.0.0.0 hipnoticrec.biz
-0.0.0.0 hk6vdj4z.click
-0.0.0.0 hop.boutique
 0.0.0.0 hotboys.biz
 0.0.0.0 incontro-veloce.com
 0.0.0.0 infokz.com
@@ -990,9 +982,7 @@
 0.0.0.0 localsnapsext.com
 0.0.0.0 lucky-bet.site
 0.0.0.0 madamecam.com
-0.0.0.0 minently.com
 0.0.0.0 monetizer.co
-0.0.0.0 morinavotarius.top
 0.0.0.0 mozime.com
 0.0.0.0 o000oo.com
 0.0.0.0 oclasrv.com
@@ -1020,7 +1010,6 @@
 0.0.0.0 slabshookwasted.com
 0.0.0.0 slext2.com
 0.0.0.0 smapp.work
-0.0.0.0 sokrostream.tv
 0.0.0.0 sportstreams.xyz
 0.0.0.0 starsx.fr
 0.0.0.0 streamall-search.com
@@ -1034,10 +1023,7 @@
 0.0.0.0 timesroadmapwed.com
 0.0.0.0 tlootas.org
 0.0.0.0 toponclick.com
-0.0.0.0 torrent09.uno
 0.0.0.0 torrent9.cm
-0.0.0.0 tourpowouro.shop
-0.0.0.0 trbx-l1.online
 0.0.0.0 trmzum.com
 0.0.0.0 unltdentertainment.co
 0.0.0.0 urbanproxy.eu
@@ -1049,7 +1035,6 @@
 0.0.0.0 webpushdirect.biz
 0.0.0.0 wgoto.xyz
 0.0.0.0 wmober.com
-0.0.0.0 x.porn.fr
 0.0.0.0 xtraserp.com
 0.0.0.0 xu2.com
 0.0.0.0 xxxviijmp.com
@@ -1084,3 +1069,6 @@
 0.0.0.0 promo.vador.com
 0.0.0.0 bondeddarkenedswerve.com
 0.0.0.0 villainoussession.com
+0.0.0.0 klik4.me
+0.0.0.0 shortbioo.com
+0.0.0.0 klik.zeus.fun
