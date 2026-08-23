@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_17.txt
-! Version: 1.0.15.58
-! Last modified: 2026-07-12T07:02:10.604Z
+! Version: 1.0.15.63
+! Last modified: 2026-08-23T06:26:51.648Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 5c2aa979542c05cc40445705ff83e3292ef07b807c.nuid.imrworldwide.com
 0.0.0.0 38d9cb358a39997f9864cecf832b8d58884a6e067d.nuid.imrworldwide.com
@@ -58,6 +58,7 @@
 0.0.0.0 ads.playpilot.com
 0.0.0.0 ads.pubmatic.com
 0.0.0.0 ads.rubiconproject.com
+0.0.0.0 ads.samnytt.se
 0.0.0.0 ads.skargarden.se
 0.0.0.0 ads.skidspar.se
 0.0.0.0 ads.skolvarlden.se
@@ -123,6 +124,7 @@
 0.0.0.0 analytics.kb.se
 0.0.0.0 analytics.lexbase.se
 0.0.0.0 analytics.mabra.com
+0.0.0.0 analytics.magnic.com
 0.0.0.0 analytics.mailmunch.co
 0.0.0.0 analytics.motherhood.se
 0.0.0.0 analytics.nikkasystems.com
@@ -309,6 +311,7 @@
 0.0.0.0 cdn.usefathom.com
 0.0.0.0 cdn.userreport.com
 0.0.0.0 cdn.viglink.com
+0.0.0.0 cdn.visitors.now
 0.0.0.0 cdn.webpushr.com
 0.0.0.0 cdn.wootric.com
 0.0.0.0 cdn.yieldwrapper.com
@@ -369,6 +372,7 @@
 0.0.0.0 connectio.s3.amazonaws.com
 0.0.0.0 content.adten.eu
 0.0.0.0 content.livesportmedia.eu
+0.0.0.0 context.bonad.io
 0.0.0.0 contextual.media.net
 0.0.0.0 convertexperiments.com
 0.0.0.0 core.centotag.io
@@ -393,6 +397,7 @@
 0.0.0.0 d33s3ffr7fotas.cloudfront.net
 0.0.0.0 d191y0yd6d0jy4.cloudfront.net
 0.0.0.0 d261u4g5nqprix.cloudfront.net
+0.0.0.0 da.klirly.io
 0.0.0.0 dackpartner-web.s3.amazonaws.com
 0.0.0.0 dagenstv.112.2o7.net
 0.0.0.0 darwin.affiliatewindow.com
@@ -468,6 +473,7 @@
 0.0.0.0 flx1.com
 0.0.0.0 fml-x.com
 0.0.0.0 fms.360yield.com
+0.0.0.0 fp.mediaintelliview.com
 0.0.0.0 fpnpmcdn.net
 0.0.0.0 fraagesport.com
 0.0.0.0 franecki.net
@@ -1108,6 +1114,7 @@
 0.0.0.0 widgets.getsitecontrol.com
 0.0.0.0 widgets.spklw.com
 0.0.0.0 widgets.sprinklecontent.com
+0.0.0.0 widget.monocular-agency.com
 0.0.0.0 wix-engage-visitors-prod-16.firebaseio.com
 0.0.0.0 wlcoolbet.adsrv.eacdn.com
 0.0.0.0 wleuroearners.adsrv.eacdn.com
