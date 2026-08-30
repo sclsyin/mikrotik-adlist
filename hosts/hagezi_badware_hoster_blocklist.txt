@@ -1,16 +1,36 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_55.txt
-! Version: 1.0.20.73
-! Last modified: 2026-07-12T07:02:26.947Z
+! Version: 1.0.20.98
+! Last modified: 2026-08-30T10:58:58.686Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 one4u.0lx.net
 0.0.0.0 free.bizhat.com
 0.0.0.0 123freehost.co.uk
 0.0.0.0 24.co.at
 0.0.0.0 all.co.uk
+0.0.0.0 blogspot.co.at
+0.0.0.0 blogspot.co.id
+0.0.0.0 blogspot.co.il
+0.0.0.0 blogspot.co.ke
+0.0.0.0 blogspot.co.nz
+0.0.0.0 blogspot.co.uk
+0.0.0.0 blogspot.co.za
+0.0.0.0 dothome.co.kr
 0.0.0.0 surfblocked.co.cc
 0.0.0.0 thamboli.co.za
+0.0.0.0 blogspot.com.ar
+0.0.0.0 blogspot.com.au
 0.0.0.0 blogspot.com.br
+0.0.0.0 blogspot.com.by
+0.0.0.0 blogspot.com.co
+0.0.0.0 blogspot.com.cy
+0.0.0.0 blogspot.com.ee
+0.0.0.0 blogspot.com.eg
 0.0.0.0 blogspot.com.es
+0.0.0.0 blogspot.com.mt
+0.0.0.0 blogspot.com.ng
+0.0.0.0 blogspot.com.tr
+0.0.0.0 blogspot.com.uy
+0.0.0.0 cableonline.com.mx
 0.0.0.0 encurtador.com.br
 0.0.0.0 kl.com.ua
 0.0.0.0 webnode.com.pt
@@ -25,7 +45,6 @@
 0.0.0.0 vpn.net.br
 0.0.0.0 qr.nikastic.com
 0.0.0.0 24.org.es
-0.0.0.0 goo-gl.ru.com
 0.0.0.0 citybios.sa.com
 0.0.0.0 ftp.totallyanonymous.com
 0.0.0.0 url.usacomment.com
@@ -74,7 +93,6 @@
 0.0.0.0 135.it
 0.0.0.0 13e.de
 0.0.0.0 150m.com
-0.0.0.0 16mb.com
 0.0.0.0 178.at
 0.0.0.0 17p.de
 0.0.0.0 193.at
@@ -98,6 +116,7 @@
 0.0.0.0 204.at
 0.0.0.0 20fr.com
 0.0.0.0 20m.com
+0.0.0.0 20m.us
 0.0.0.0 22web.org
 0.0.0.0 24.eu
 0.0.0.0 24.gg
@@ -157,7 +176,6 @@
 0.0.0.0 aa8.de
 0.0.0.0 aa9.de
 0.0.0.0 aba.ae
-0.0.0.0 aba.vg
 0.0.0.0 abbremsen.de
 0.0.0.0 abfertigen.de
 0.0.0.0 abgeblasen.de
@@ -215,7 +233,6 @@
 0.0.0.0 ausposaunen.de
 0.0.0.0 auto.lc
 0.0.0.0 aw3.de
-0.0.0.0 awardspace.biz
 0.0.0.0 axifile.com
 0.0.0.0 az.gp
 0.0.0.0 azl.one
@@ -238,7 +255,6 @@
 0.0.0.0 bigheadhosting.net
 0.0.0.0 bilder.lc
 0.0.0.0 billblett.com
-0.0.0.0 bitly.lc
 0.0.0.0 bitly.net
 0.0.0.0 bityl.co
 0.0.0.0 bitzli.ch
@@ -254,12 +270,15 @@
 0.0.0.0 bloggt.de
 0.0.0.0 blogmonster.de
 0.0.0.0 blogspot.ae
+0.0.0.0 blogspot.al
 0.0.0.0 blogspot.am
 0.0.0.0 blogspot.ba
 0.0.0.0 blogspot.be
 0.0.0.0 blogspot.bg
 0.0.0.0 blogspot.ca
 0.0.0.0 blogspot.ch
+0.0.0.0 blogspot.cl
+0.0.0.0 blogspot.com
 0.0.0.0 blogspot.cz
 0.0.0.0 blogspot.de
 0.0.0.0 blogspot.dk
@@ -267,30 +286,42 @@
 0.0.0.0 blogspot.fr
 0.0.0.0 blogspot.gr
 0.0.0.0 blogspot.hk
+0.0.0.0 blogspot.hr
+0.0.0.0 blogspot.hu
+0.0.0.0 blogspot.ie
 0.0.0.0 blogspot.in
+0.0.0.0 blogspot.is
 0.0.0.0 blogspot.it
 0.0.0.0 blogspot.jp
+0.0.0.0 blogspot.kr
 0.0.0.0 blogspot.li
+0.0.0.0 blogspot.lt
 0.0.0.0 blogspot.lu
+0.0.0.0 blogspot.md
+0.0.0.0 blogspot.mk
 0.0.0.0 blogspot.mx
+0.0.0.0 blogspot.my
 0.0.0.0 blogspot.nl
 0.0.0.0 blogspot.no
 0.0.0.0 blogspot.org
+0.0.0.0 blogspot.pe
 0.0.0.0 blogspot.pl
 0.0.0.0 blogspot.pt
+0.0.0.0 blogspot.qa
+0.0.0.0 blogspot.ro
 0.0.0.0 blogspot.rs
 0.0.0.0 blogspot.ru
 0.0.0.0 blogspot.se
+0.0.0.0 blogspot.sg
+0.0.0.0 blogspot.si
 0.0.0.0 blogspot.sk
 0.0.0.0 blogspot.sn
 0.0.0.0 blogspot.tw
+0.0.0.0 blogspot.ug
 0.0.0.0 bo.gp
 0.0.0.0 boxmail.biz
 0.0.0.0 boxmode.io
 0.0.0.0 br.gp
-0.0.0.0 bravenet.com
-0.0.0.0 brizy.site
-0.0.0.0 bugs3.com
 0.0.0.0 builderall.net
 0.0.0.0 builtfree.org
 0.0.0.0 bulkurlshortener.com
@@ -371,13 +402,12 @@
 0.0.0.0 corolain.ru
 0.0.0.0 craftum.io
 0.0.0.0 created.app
-0.0.0.0 creatorlink.net
 0.0.0.0 crypto-market-world.com
 0.0.0.0 cryptonight.net
 0.0.0.0 cs-clan.org
 0.0.0.0 cstu.io
 0.0.0.0 ct.ws
-0.0.0.0 ct8.pl
+0.0.0.0 ctempurl.com
 0.0.0.0 cut.vin
 0.0.0.0 cutedrive.com
 0.0.0.0 cwqso.net
@@ -424,8 +454,8 @@
 0.0.0.0 dweb.link
 0.0.0.0 e.gp
 0.0.0.0 e-docssig.com
-0.0.0.0 e-kei.pl
 0.0.0.0 easyfreehosting.com
+0.0.0.0 eb2a.com
 0.0.0.0 ec.gp
 0.0.0.0 ecardalert.com
 0.0.0.0 ecomplanet.com
@@ -478,7 +508,6 @@
 0.0.0.0 facepl.com
 0.0.0.0 familylobby.com
 0.0.0.0 fanclub.rocks
-0.0.0.0 fashion.blog
 0.0.0.0 fast-page.org
 0.0.0.0 fastshare.org
 0.0.0.0 fat-fly.com
@@ -500,7 +529,6 @@
 0.0.0.0 firstcloudit.com
 0.0.0.0 flashbuilder.net
 0.0.0.0 flazio.com
-0.0.0.0 fleek.co
 0.0.0.0 fleek.cool
 0.0.0.0 flf.li
 0.0.0.0 fli.so
@@ -513,7 +541,6 @@
 0.0.0.0 forum7.de
 0.0.0.0 forumil.com
 0.0.0.0 fotos.lc
-0.0.0.0 fourthwall.com
 0.0.0.0 fr.am
 0.0.0.0 fr.gp
 0.0.0.0 fr.nf
@@ -550,7 +577,6 @@
 0.0.0.0 freewebspace.com
 0.0.0.0 freewebtools.com
 0.0.0.0 freewha.com
-0.0.0.0 freezoka.net
 0.0.0.0 freightinternationalservices.com
 0.0.0.0 friendcircles.com
 0.0.0.0 fuer-alle.de
@@ -565,9 +591,7 @@
 0.0.0.0 gamer.gd
 0.0.0.0 gaming.lc
 0.0.0.0 genblogger.com
-0.0.0.0 gerentebr.com
 0.0.0.0 getenjoyment.net
-0.0.0.0 getfile.biz
 0.0.0.0 getresponsesite.com
 0.0.0.0 gg123.vip
 0.0.0.0 gilde.in
@@ -632,7 +656,6 @@
 0.0.0.0 i8.ae
 0.0.0.0 ibiz.cc
 0.0.0.0 iblogger.org
-0.0.0.0 ic0.app
 0.0.0.0 iceiy.com
 0.0.0.0 id.gp
 0.0.0.0 idiot24.de
@@ -727,7 +750,6 @@
 0.0.0.0 lernt.de
 0.0.0.0 lhosting.info
 0.0.0.0 liebe.lc
-0.0.0.0 liftmyresume.com
 0.0.0.0 lihi1.com
 0.0.0.0 lihi3.cc
 0.0.0.0 link.ac
@@ -745,7 +767,6 @@
 0.0.0.0 lnkz.at
 0.0.0.0 logomebel.ru
 0.0.0.0 look.in
-0.0.0.0 loophole.site
 0.0.0.0 lovelocals.us
 0.0.0.0 loveslife.biz
 0.0.0.0 lovestoblog.com
@@ -803,7 +824,6 @@
 0.0.0.0 mybluehost.me
 0.0.0.0 mybluehostin.me
 0.0.0.0 myclickfunnels.com
-0.0.0.0 mycpanel.rs
 0.0.0.0 mydiscussion.net
 0.0.0.0 myeweb.net
 0.0.0.0 myfoolmoon.com
@@ -819,7 +839,6 @@
 0.0.0.0 n-e.kr
 0.0.0.0 name.ac
 0.0.0.0 name.vg
-0.0.0.0 narod.ru
 0.0.0.0 nathanaeldan.pro
 0.0.0.0 neocities.org
 0.0.0.0 net16.net
@@ -838,7 +857,6 @@
 0.0.0.0 newmail.ru
 0.0.0.0 nexmicrosystems.com
 0.0.0.0 nicepage.io
-0.0.0.0 nichesite.org
 0.0.0.0 nip.io
 0.0.0.0 nl.gp
 0.0.0.0 nl.kg
@@ -890,7 +908,6 @@
 0.0.0.0 pcriot.com
 0.0.0.0 pe.gp
 0.0.0.0 pe.hu
-0.0.0.0 peraichi.com
 0.0.0.0 perfektionieren.de
 0.0.0.0 perl.sh
 0.0.0.0 ph.gp
@@ -904,7 +921,6 @@
 0.0.0.0 pktriot.net
 0.0.0.0 pl.de
 0.0.0.0 pl.gp
-0.0.0.0 pl-oferta-id2387942371.top
 0.0.0.0 planet.tl
 0.0.0.0 plu.sh
 0.0.0.0 portal.lc
@@ -935,6 +951,7 @@
 0.0.0.0 quiztionnaire.uk
 0.0.0.0 r.gp
 0.0.0.0 r-e.kr
+0.0.0.0 radiola.club
 0.0.0.0 rapidshare.com
 0.0.0.0 rapidshare.de
 0.0.0.0 rapidshare.se
@@ -990,7 +1007,6 @@
 0.0.0.0 shortu.be
 0.0.0.0 shorturl.ae
 0.0.0.0 site11.com
-0.0.0.0 site123.me
 0.0.0.0 site40.net
 0.0.0.0 site50.net
 0.0.0.0 site88.net
@@ -1007,7 +1023,6 @@
 0.0.0.0 solidwebhost.com
 0.0.0.0 sophiashantidaniel.com
 0.0.0.0 space.lc
-0.0.0.0 speed4up.net
 0.0.0.0 sport-pro.de
 0.0.0.0 sportsontheweb.net
 0.0.0.0 spruz.com
@@ -1018,7 +1033,6 @@
 0.0.0.0 staticrun.app
 0.0.0.0 stormloader.com
 0.0.0.0 stormpages.com
-0.0.0.0 studio.site
 0.0.0.0 suchtis.de
 0.0.0.0 supload.com
 0.0.0.0 surge.sh
@@ -1050,7 +1064,6 @@
 0.0.0.0 tiiny.host
 0.0.0.0 tiiny.io
 0.0.0.0 tiiny.site
-0.0.0.0 tilda.ws
 0.0.0.0 tinylink.in
 0.0.0.0 tinyurl.ph
 0.0.0.0 tld.cc
@@ -1072,6 +1085,7 @@
 0.0.0.0 tripod.com
 0.0.0.0 turbo.site
 0.0.0.0 turkish.lc
+0.0.0.0 tutorial-blog.net
 0.0.0.0 tw.gp
 0.0.0.0 tw1.ru
 0.0.0.0 twilight.ws
@@ -1110,7 +1124,6 @@
 0.0.0.0 usafreespace.com
 0.0.0.0 usclargo.com
 0.0.0.0 user.lc
-0.0.0.0 usrfiles.com
 0.0.0.0 uz.gp
 0.0.0.0 v.gp
 0.0.0.0 v0r.org
