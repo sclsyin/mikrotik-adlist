@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_57.txt
-! Version: 1.0.15.40
-! Last modified: 2026-07-12T07:02:09.661Z
+! Version: 1.0.15.46
+! Last modified: 2026-10-04T11:35:10.886Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 06i0c3.top
 0.0.0.0 1000-dating-sites.com
@@ -71,6 +71,7 @@
 0.0.0.0 amoredate.com
 0.0.0.0 amour.dk
 0.0.0.0 amourfactory.com
+0.0.0.0 amourfeel.com
 0.0.0.0 amourland.com
 0.0.0.0 amours-bio.com
 0.0.0.0 amourtimes.com
@@ -113,12 +114,17 @@
 0.0.0.0 babyboomerpeoplemeet.biz
 0.0.0.0 badoocdn.com
 0.0.0.0 badoo.com
+0.0.0.0 bahamasdatingonline.com
 0.0.0.0 baltic-women.com
 0.0.0.0 bangatrans.com
 0.0.0.0 baseballovers.com
+0.0.0.0 bbdiva.com
 0.0.0.0 bbpeoplemeet.biz
 0.0.0.0 bbpeoplemeet.com
+0.0.0.0 bbwbbm.com
 0.0.0.0 bbwcupid.com
+0.0.0.0 bbwdate.net
+0.0.0.0 bbw.net
 0.0.0.0 be2.at
 0.0.0.0 be2.ch
 0.0.0.0 be2.com
@@ -132,6 +138,7 @@
 0.0.0.0 beboo.ru
 0.0.0.0 becoquin.com
 0.0.0.0 behappy2day.com
+0.0.0.0 belleronde.net
 0.0.0.0 benaughty.com
 0.0.0.0 beshert.com
 0.0.0.0 bestprice.co.za
@@ -184,11 +191,13 @@
 0.0.0.0 casualxhookups.com
 0.0.0.0 catholicmates.com
 0.0.0.0 catholicpeoplemeet.com
+0.0.0.0 cazavo.sk
 0.0.0.0 c-date.com
 0.0.0.0 c-date.es
 0.0.0.0 c-dating.fr
 0.0.0.0 celibapatch.com
 0.0.0.0 celibatairesduweb.com
+0.0.0.0 celibataires.info
 0.0.0.0 celibest.com
 0.0.0.0 celibouest.com
 0.0.0.0 celibparis.com
@@ -240,6 +249,7 @@
 0.0.0.0 d1t13vwmbdrp1.cloudfront.net
 0.0.0.0 d2cxe615jwk4sg.cloudfront.net
 0.0.0.0 d8u.com
+0.0.0.0 d8uk.com
 0.0.0.0 dateasian.org
 0.0.0.0 dateasians.net
 0.0.0.0 datebrowse.com
@@ -505,6 +515,7 @@
 0.0.0.0 erwinsdate.de
 0.0.0.0 espace-live.com
 0.0.0.0 eterocuriosi.it
+0.0.0.0 europeandatingagency.com
 0.0.0.0 europeandating.net
 0.0.0.0 europeandatingplanet.com
 0.0.0.0 europe-tchat-rencontre.fr
@@ -514,6 +525,7 @@
 0.0.0.0 farmersonly.com
 0.0.0.0 fastmatch.com.au
 0.0.0.0 fdating.com
+0.0.0.0 femmemure.ch
 0.0.0.0 fetishcontacts.co.uk
 0.0.0.0 filipinadatingsites.net
 0.0.0.0 filipinawife.com
@@ -537,6 +549,7 @@
 0.0.0.0 flirt-fever.de
 0.0.0.0 flirthits.com
 0.0.0.0 flirtic.ee
+0.0.0.0 flirtingbuddies.com
 0.0.0.0 flirt-jetzt.com
 0.0.0.0 flirtmoi.com
 0.0.0.0 flirtpiraten.com
@@ -591,10 +604,12 @@
 0.0.0.0 grannysexfriend.com
 0.0.0.0 gratissexkontakt.com
 0.0.0.0 groony.com
+0.0.0.0 gstatvb.com
 0.0.0.0 guapasmaduras.com
 0.0.0.0 guayu.com
 0.0.0.0 guidedenuit.com
 0.0.0.0 hallokoko.com
+0.0.0.0 handilove.fr
 0.0.0.0 happn.com
 0.0.0.0 happysingles.fr
 0.0.0.0 harmonylove.com
@@ -694,6 +709,7 @@
 0.0.0.0 kuumatpaikat.com
 0.0.0.0 laisvas.eu
 0.0.0.0 latamdate.com
+0.0.0.0 latesummerlove.com
 0.0.0.0 latinamericancupid.com
 0.0.0.0 latinlove.org
 0.0.0.0 latinopeoplemeet.com
@@ -743,11 +759,13 @@
 0.0.0.0 loveawake.com
 0.0.0.0 love.cz
 0.0.0.0 lovedating.be
+0.0.0.0 lovedesir.fr
 0.0.0.0 loveismatch.com
 0.0.0.0 lovelife.ca
 0.0.0.0 lovely.co.il
 0.0.0.0 lovemage.com
 0.0.0.0 loveme.com
+0.0.0.0 loveplace.ch
 0.0.0.0 loveplanet.ru
 0.0.0.0 lover2cu.com
 0.0.0.0 lovespiritually.com
@@ -773,10 +791,12 @@
 0.0.0.0 marryy.me
 0.0.0.0 masochiste.org
 0.0.0.0 match21.com
+0.0.0.0 matchasiansingles.com
 0.0.0.0 match.com
 0.0.0.0 matchmaker.co.za
 0.0.0.0 matchmet.com
 0.0.0.0 match-usa.com
+0.0.0.0 match-wizard.com
 0.0.0.0 matrymonia.pl
 0.0.0.0 maturebi.com
 0.0.0.0 maturedating.com
@@ -815,11 +835,14 @@
 0.0.0.0 menwedding.com
 0.0.0.0 mexflirt.mx
 0.0.0.0 mexicancupid.com
+0.0.0.0 miayo.com
 0.0.0.0 midsummerseve.com
 0.0.0.0 mignons.net
 0.0.0.0 milalol.com
 0.0.0.0 milfdatelink.com
+0.0.0.0 millionairebuddies.com
 0.0.0.0 millionairedatingplanet.com
+0.0.0.0 millionairematchmaker.ca
 0.0.0.0 minaflirts.com
 0.0.0.0 mingle2.com
 0.0.0.0 minglematey.com
@@ -881,6 +904,7 @@
 0.0.0.0 over50datingnorge.com
 0.0.0.0 over50sdating.net
 0.0.0.0 over50singlesmeet.com
+0.0.0.0 over60dating.online
 0.0.0.0 parisvideochat.com
 0.0.0.0 parom.hu
 0.0.0.0 parship.at
@@ -927,6 +951,7 @@
 0.0.0.0 radar-rencontres.fr
 0.0.0.0 rande.cz
 0.0.0.0 rande.sk
+0.0.0.0 randkisympatia.pl
 0.0.0.0 raw.app
 0.0.0.0 rawapp.sdvcloud.net
 0.0.0.0 rbrides.com
@@ -1123,6 +1148,7 @@
 0.0.0.0 seniorfriendfinder.com
 0.0.0.0 seniorlesbians.com
 0.0.0.0 senior-love-match.co.uk
+0.0.0.0 seniormatch.us
 0.0.0.0 seniorpeoplemeet.biz
 0.0.0.0 seniorpolyamory.com
 0.0.0.0 seniorsbi.com
@@ -1159,11 +1185,13 @@
 0.0.0.0 single-russian-woman.com
 0.0.0.0 singles2meet.co.za
 0.0.0.0 singles.com
+0.0.0.0 singlescrowd.com
 0.0.0.0 singlescrowd.co.uk
 0.0.0.0 singlesdatingagency.es
 0.0.0.0 singlesintoronto.ca
 0.0.0.0 singlesmontreal.com
 0.0.0.0 singlesolution.com
+0.0.0.0 singlesover60.net
 0.0.0.0 singletreffpunkt.ch
 0.0.0.0 sinsflirt.com
 0.0.0.0 sitederencontregratuit.org
@@ -1207,6 +1235,7 @@
 0.0.0.0 tagged.com
 0.0.0.0 tagstat.com
 0.0.0.0 talksaferdating.com
+0.0.0.0 talldater.com
 0.0.0.0 tallfriends.com
 0.0.0.0 tancdn.com
 0.0.0.0 tangodatingonline.com
@@ -1254,6 +1283,7 @@
 0.0.0.0 toplop.com
 0.0.0.0 toprencontres.net
 0.0.0.0 transen-dating.com
+0.0.0.0 travesti.net
 0.0.0.0 tresor-sexe.com
 0.0.0.0 triocontactos.es
 0.0.0.0 trioespana.com
@@ -1262,6 +1292,7 @@
 0.0.0.0 tsdates.com
 0.0.0.0 tsdating.com
 0.0.0.0 turboflirt.com
+0.0.0.0 turkish-gayland.com
 0.0.0.0 tvtsdating.co.uk
 0.0.0.0 uadating.net
 0.0.0.0 uchat.de
@@ -1278,6 +1309,7 @@
 0.0.0.0 urbansocial.com
 0.0.0.0 u-rencontres.com
 0.0.0.0 usadatingplanet.com
+0.0.0.0 usgay.org
 0.0.0.0 valentimatchmaking.com
 0.0.0.0 vanessa69.com
 0.0.0.0 veemance.com.au
@@ -1299,6 +1331,7 @@
 0.0.0.0 virtumatch.com
 0.0.0.0 voksenkontakt.com
 0.0.0.0 volosdate.com
+0.0.0.0 vryers.co.za
 0.0.0.0 wantubad.com
 0.0.0.0 waplog.com
 0.0.0.0 wearedogging.co.uk
@@ -1343,4 +1376,5 @@
 0.0.0.0 znamost.cz
 0.0.0.0 zonabdsm.com
 0.0.0.0 zonabisexual.es
+0.0.0.0 zone.bz
 0.0.0.0 zoosk.com
