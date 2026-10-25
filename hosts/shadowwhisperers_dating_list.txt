@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_57.txt
-! Version: 1.0.15.47
-! Last modified: 2026-10-11T06:33:00.825Z
+! Version: 1.0.15.50
+! Last modified: 2026-10-25T10:26:57.126Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 06i0c3.top
 0.0.0.0 1000-dating-sites.com
@@ -16,6 +16,7 @@
 0.0.0.0 123jerencontre.fr
 0.0.0.0 12meet.com
 0.0.0.0 12meetsenior.com
+0.0.0.0 18years.ru
 0.0.0.0 1st-international.com
 0.0.0.0 1st-russian-bride.com
 0.0.0.0 222singles.com
@@ -124,6 +125,7 @@
 0.0.0.0 bbwbbm.com
 0.0.0.0 bbwcupid.com
 0.0.0.0 bbwdate.net
+0.0.0.0 bbwlove.ca
 0.0.0.0 bbw.net
 0.0.0.0 be2.at
 0.0.0.0 be2.ch
@@ -310,6 +312,7 @@
 0.0.0.0 datewithgays.com
 0.0.0.0 datewiz.me
 0.0.0.0 dating4bisexuals.com
+0.0.0.0 datingadvice.com
 0.0.0.0 datingagency.com
 0.0.0.0 datinganerd.com
 0.0.0.0 datingapp.co.za
