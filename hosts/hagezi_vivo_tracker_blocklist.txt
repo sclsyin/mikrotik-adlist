@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_65.txt
-! Version: 1.0.0.47
-! Last modified: 2026-10-11T06:33:01.624Z
+! Version: 1.0.0.50
+! Last modified: 2026-11-08T12:30:43.632Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 vhs.wwstat.com.eo.unicomcdn.com.cn
 0.0.0.0 az.appstore.vivo.com.cn
@@ -58,9 +58,7 @@
 0.0.0.0 asia-vpushonrt-stsdk.vivoglobal.com
 0.0.0.0 asia-vpushort-stsdk.vivoglobal.com
 0.0.0.0 br-p.vivoglobal.com
-0.0.0.0 cn-zh-ort-stsdk.vivoglobal.com
-0.0.0.0 cn-zh-prt-stsdk.vivoglobal.com
-0.0.0.0 cn-zh-stsdk.vivoglobal.com
+0.0.0.0 cl-vcode-api.vivoglobal.com
 0.0.0.0 cname-ali-asia-stsdk.vivoglobal.com
 0.0.0.0 cname-asia-comonrt-stsdk.vivoglobal.com
 0.0.0.0 cname-asia-st-exappupgrade.vivoglobal.com
@@ -88,15 +86,16 @@
 0.0.0.0 de-gdpr-vcode-api.vivoglobal.com
 0.0.0.0 err-up.vivoglobal.com
 0.0.0.0 eu-album-api.vivoglobal.com
+0.0.0.0 eu-api-stsdk.vivoglobal.com
 0.0.0.0 eu-cota.vivoglobal.com
 0.0.0.0 eu-domaincfg.vivoglobal.com
 0.0.0.0 eu-errup.vivoglobal.com
+0.0.0.0 eu-nrt-stsdk.vivoglobal.com
 0.0.0.0 eu-onrt-stsdk.vivoglobal.com
 0.0.0.0 eu-ort-stsdk.vivoglobal.com
 0.0.0.0 eu-p.vivoglobal.com
 0.0.0.0 eu-pnrt-stsdk.vivoglobal.com
 0.0.0.0 eu-romsp-unifyconfig.vivoglobal.com
-0.0.0.0 eu-st-exappupgrade.vivoglobal.com
 0.0.0.0 eu-st-sl.vivoglobal.com
 0.0.0.0 eu-stsdk.vivoglobal.com
 0.0.0.0 eu-timesync.vivoglobal.com
@@ -112,7 +111,7 @@
 0.0.0.0 in-adlog.vivoglobal.com
 0.0.0.0 in-adreq.vivoglobal.com
 0.0.0.0 in-adsjssdk.vivoglobal.com
-0.0.0.0 in-analyzer-appstore.vivoglobal.com
+0.0.0.0 in-api-stsdk.vivoglobal.com
 0.0.0.0 in-apponrt-stsdk.vivoglobal.com
 0.0.0.0 in-apport-stsdk.vivoglobal.com
 0.0.0.0 in-apppnrt-stsdk.vivoglobal.com
@@ -128,6 +127,7 @@
 0.0.0.0 in-ex-adlog.vivoglobal.com
 0.0.0.0 in-monitor-stsdk.vivoglobal.com
 0.0.0.0 in-news-abroad-backstage-interface.vivoglobal.com
+0.0.0.0 in-nrt-stsdk.vivoglobal.com
 0.0.0.0 in-onrt-stsdk.vivoglobal.com
 0.0.0.0 in-ort-stsdk.vivoglobal.com
 0.0.0.0 in-os-config-appstore.vivoglobal.com
@@ -140,7 +140,6 @@
 0.0.0.0 in-vcode-or.vivoglobal.com
 0.0.0.0 in-vpushonrt-stsdk.vivoglobal.com
 0.0.0.0 in-vpushort-stsdk.vivoglobal.com
-0.0.0.0 kz-album-api.vivoglobal.com
 0.0.0.0 kz-cname-sin01-bigdata.vivoglobal.com
 0.0.0.0 kz-cota.vivoglobal.com
 0.0.0.0 kz-err-up.vivoglobal.com
@@ -150,11 +149,13 @@
 0.0.0.0 kz-p.vivoglobal.com
 0.0.0.0 kz-pnrt-stsdk.vivoglobal.com
 0.0.0.0 kz-prt-stsdk.vivoglobal.com
+0.0.0.0 kz-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 kz-st-exappupgrade.vivoglobal.com
 0.0.0.0 kz-st-sl.vivoglobal.com
 0.0.0.0 kz-st-sysupgrade.vivoglobal.com
 0.0.0.0 kz-stsdk.vivoglobal.com
 0.0.0.0 kz-timesync.vivoglobal.com
+0.0.0.0 kz-vcode-api.vivoglobal.com
 0.0.0.0 kz-vcode-od.vivoglobal.com
 0.0.0.0 kz-vcode-or.vivoglobal.com
 0.0.0.0 monitor-stsdk.vivoglobal.com
@@ -215,6 +216,7 @@
 0.0.0.0 tr-ort-stsdk.vivoglobal.com
 0.0.0.0 tr-p.vivoglobal.com
 0.0.0.0 tr-pnrt-stsdk.vivoglobal.com
+0.0.0.0 tr-prt-stsdk.vivoglobal.com
 0.0.0.0 tr-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 tr-st-sl.vivoglobal.com
 0.0.0.0 tr-st-sysupgrade.vivoglobal.com

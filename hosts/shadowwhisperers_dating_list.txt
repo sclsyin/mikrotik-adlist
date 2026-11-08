@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_57.txt
-! Version: 1.0.15.47
-! Last modified: 2026-10-11T06:33:00.825Z
+! Version: 1.0.15.52
+! Last modified: 2026-11-08T12:30:43.454Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 06i0c3.top
 0.0.0.0 1000-dating-sites.com
@@ -16,6 +16,7 @@
 0.0.0.0 123jerencontre.fr
 0.0.0.0 12meet.com
 0.0.0.0 12meetsenior.com
+0.0.0.0 18years.ru
 0.0.0.0 1st-international.com
 0.0.0.0 1st-russian-bride.com
 0.0.0.0 222singles.com
@@ -124,6 +125,7 @@
 0.0.0.0 bbwbbm.com
 0.0.0.0 bbwcupid.com
 0.0.0.0 bbwdate.net
+0.0.0.0 bbwlove.ca
 0.0.0.0 bbw.net
 0.0.0.0 be2.at
 0.0.0.0 be2.ch
@@ -310,6 +312,7 @@
 0.0.0.0 datewithgays.com
 0.0.0.0 datewiz.me
 0.0.0.0 dating4bisexuals.com
+0.0.0.0 datingadvice.com
 0.0.0.0 datingagency.com
 0.0.0.0 datinganerd.com
 0.0.0.0 datingapp.co.za
@@ -701,6 +704,7 @@
 0.0.0.0 jwed.com
 0.0.0.0 k8s-proxy-partners-72bc153cb9-d20aaf6ef79966bb.elb.us-east-1.amazonaws.com
 0.0.0.0 k9.co.za
+0.0.0.0 kansasflirt.com
 0.0.0.0 kansas-singles.com
 0.0.0.0 kelrencontre.fr
 0.0.0.0 komonskliek.co.za
@@ -752,10 +756,12 @@
 0.0.0.0 love2knowu.co.za
 0.0.0.0 loveandfriends.com
 0.0.0.0 loveandfriends.co.uk
+0.0.0.0 loveandink.com
 0.0.0.0 loveandseek.biz
 0.0.0.0 loveandseek.com
 0.0.0.0 loveandseek.tv
 0.0.0.0 lovearts.com
+0.0.0.0 loveasians.com
 0.0.0.0 loveawake.com
 0.0.0.0 love.cz
 0.0.0.0 lovedating.be
@@ -1285,6 +1291,7 @@
 0.0.0.0 toplop.com
 0.0.0.0 toprencontres.net
 0.0.0.0 transen-dating.com
+0.0.0.0 transhearts.com
 0.0.0.0 travesti.net
 0.0.0.0 tresor-sexe.com
 0.0.0.0 triocontactos.es

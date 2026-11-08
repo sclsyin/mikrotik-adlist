@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.17.21
-! Last modified: 2026-10-11T06:33:21.660Z
+! Version: 1.0.17.27
+! Last modified: 2026-11-08T12:31:03.461Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 dyn.addr.tools
 0.0.0.0 changeip.co.uk
@@ -20,6 +20,7 @@
 0.0.0.0 h4g3z1-dyndns.web.app
 0.0.0.0 dyndns.za.org
 0.0.0.0 0000000000000000000000.com
+0.0.0.0 001www.com
 0.0.0.0 0rg.us
 0.0.0.0 0x.no
 0.0.0.0 100mountain.com
@@ -79,9 +80,7 @@
 0.0.0.0 anastasion.com
 0.0.0.0 aneisa.com
 0.0.0.0 angelcamddns.com
-0.0.0.0 annaffiare.org
 0.0.0.0 anondns.net
-0.0.0.0 antongorbunov.com
 0.0.0.0 any64.de
 0.0.0.0 anyitsolution.com
 0.0.0.0 api64.de
@@ -117,7 +116,6 @@
 0.0.0.0 bagus.org
 0.0.0.0 baikabibai.com
 0.0.0.0 bakli.ru
-0.0.0.0 barbaforte.org
 0.0.0.0 barrel-of-knowledge.info
 0.0.0.0 barrell-of-knowledge.info
 0.0.0.0 baselinux.net
@@ -208,6 +206,7 @@
 0.0.0.0 cloudns.pro
 0.0.0.0 cloudwatch.net
 0.0.0.0 cloudxns.net
+0.0.0.0 cmirg.com
 0.0.0.0 cnstefancelmare.ro
 0.0.0.0 coalnet.ru
 0.0.0.0 codns.com
@@ -216,7 +215,6 @@
 0.0.0.0 compress.to
 0.0.0.0 compuinter.com
 0.0.0.0 computersforpeace.net
-0.0.0.0 compy.ca
 0.0.0.0 con-ip.com
 0.0.0.0 conditsis.com
 0.0.0.0 contepsa.com
@@ -278,11 +276,9 @@
 0.0.0.0 digitalgroupe.com
 0.0.0.0 dip.jp
 0.0.0.0 diskstation.eu
-0.0.0.0 diskstation.me
 0.0.0.0 diskstation.org
 0.0.0.0 ditchyourip.com
 0.0.0.0 dive2.net
-0.0.0.0 divx.se
 0.0.0.0 diyplans.org
 0.0.0.0 dlinkddns.com
 0.0.0.0 dmtr.ru
@@ -350,12 +346,7 @@
 0.0.0.0 drayddns.com
 0.0.0.0 dropfiles.net
 0.0.0.0 drunkensailor.org
-0.0.0.0 dscloud.me
-0.0.0.0 dscloud.mobi
 0.0.0.0 dsmtp.com
-0.0.0.0 dsmynas.com
-0.0.0.0 dsmynas.net
-0.0.0.0 dsmynas.org
 0.0.0.0 dtdns.com
 0.0.0.0 dtdns.net
 0.0.0.0 dtdns.org
@@ -436,7 +427,6 @@
 0.0.0.0 dynnamn.ru
 0.0.0.0 dynns.com
 0.0.0.0 dyns.be
-0.0.0.0 dyns.cx
 0.0.0.0 dyns.net
 0.0.0.0 dynserv.org
 0.0.0.0 dynssl.com
@@ -504,9 +494,6 @@
 0.0.0.0 f3322.org
 0.0.0.0 fairuse.org
 0.0.0.0 falcongreen.com
-0.0.0.0 familyds.com
-0.0.0.0 familyds.net
-0.0.0.0 familyds.org
 0.0.0.0 fantasyleague.cc
 0.0.0.0 faqserv.com
 0.0.0.0 farted.net
@@ -651,7 +638,6 @@
 0.0.0.0 gslb.me
 0.0.0.0 gteksecurity.com
 0.0.0.0 gtk.cl
-0.0.0.0 guardz.ru
 0.0.0.0 guild-site.com
 0.0.0.0 gurcanozturk.com
 0.0.0.0 gurdit.com
@@ -722,7 +708,6 @@
 0.0.0.0 hulichicken.com
 0.0.0.0 humorvisite.eu
 0.0.0.0 hunnur.com
-0.0.0.0 i234.me
 0.0.0.0 iamallama.com
 0.0.0.0 ics.tw
 0.0.0.0 ideasciviles.com
@@ -879,9 +864,6 @@
 0.0.0.0 kanda.ru
 0.0.0.0 kaohsiung.tv
 0.0.0.0 kck-saratov.ru
-0.0.0.0 keenetic.link
-0.0.0.0 keenetic.name
-0.0.0.0 keenetic.pro
 0.0.0.0 keine-panik.net
 0.0.0.0 kellserve.com
 0.0.0.0 kicks-ass.net
@@ -1011,7 +993,6 @@
 0.0.0.0 mydissent.net
 0.0.0.0 mydns.bz
 0.0.0.0 mydns.jp
-0.0.0.0 myds.me
 0.0.0.0 myeffect.net
 0.0.0.0 myftp.biz
 0.0.0.0 myftp.info
@@ -1047,7 +1028,6 @@
 0.0.0.0 mysecuritycamera.net
 0.0.0.0 mysecuritycamera.org
 0.0.0.0 myserver.org
-0.0.0.0 mysynology.net
 0.0.0.0 myvnc.com
 0.0.0.0 mywebworld.info
 0.0.0.0 mywire.org
@@ -1078,6 +1058,7 @@
 0.0.0.0 nflfan.org
 0.0.0.0 nhlfan.net
 0.0.0.0 ninth.biz
+0.0.0.0 nip.io
 0.0.0.0 no-domain.name
 0.0.0.0 no-ip.biz
 0.0.0.0 no-ip.ca
@@ -1227,11 +1208,13 @@
 0.0.0.0 routemehome.com
 0.0.0.0 roxa.org
 0.0.0.0 rpz.su
+0.0.0.0 rr.nu
 0.0.0.0 rtam.net
 0.0.0.0 rum.si
 0.0.0.0 run.place
 0.0.0.0 rundis.com
 0.0.0.0 ruok.org
+0.0.0.0 russkoeumea.com
 0.0.0.0 rwbcode.com
 0.0.0.0 ryointernational.com
 0.0.0.0 sandmeiers.ch
@@ -1355,6 +1338,7 @@
 0.0.0.0 stocktester.ru
 0.0.0.0 stoupin.ru
 0.0.0.0 strangled.net
+0.0.0.0 stroyexpert.org
 0.0.0.0 stuff-4-sale.org
 0.0.0.0 stuff-4-sale.us
 0.0.0.0 stufftoread.com
@@ -1362,6 +1346,7 @@
 0.0.0.0 stuns.org
 0.0.0.0 sumibi.org
 0.0.0.0 sundby.com
+0.0.0.0 surak.kz
 0.0.0.0 surfnet.ca
 0.0.0.0 suroot.com
 0.0.0.0 swoop2.me
@@ -1451,7 +1436,6 @@
 0.0.0.0 venez.net
 0.0.0.0 verymad.net
 0.0.0.0 viamisoftware.com
-0.0.0.0 vicinanza.org
 0.0.0.0 vicp.cc
 0.0.0.0 vicp.net
 0.0.0.0 vietnamddns.com
