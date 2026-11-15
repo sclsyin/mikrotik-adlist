@@ -1,13 +1,13 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt
-! Version: 1.0.19.85
-! Last modified: 2026-10-11T06:32:49.249Z
+! Version: 1.0.19.89
+! Last modified: 2026-11-15T13:13:06.303Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 !
 ! Title: Dan Pollock's List
 ! Description: List for blocking ads and preventing user tracking
-! Version: 1.0.19.85
+! Version: 1.0.19.89
 ! Homepage: https://someonewhocares.org/
-! Last modified: 2026-10-04T20:02:09.536Z
+! Last modified: 2026-11-11T18:11:55.106Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
@@ -1412,6 +1412,7 @@
 0.0.0.0 askbot.com
 0.0.0.0 askto.net
 0.0.0.0 askubal.fr
+0.0.0.0 assistance.app-claude-ai.online
 0.0.0.0 assistcom.fr
 0.0.0.0 assodigitale.fr
 0.0.0.0 ast-grouope.fr
@@ -1455,6 +1456,7 @@
 0.0.0.0 badsender.fr
 0.0.0.0 bagaboo-bags.fr
 0.0.0.0 bagagescabine.fr
+0.0.0.0 balancemastercardgiftcard.com
 0.0.0.0 bannerbuzz.fr
 0.0.0.0 bannersnack.fr
 0.0.0.0 baselabo.heteml.net
@@ -1792,6 +1794,7 @@
 0.0.0.0 doors.co.kr
 0.0.0.0 dpflyingoncs.top
 0.0.0.0 dragonfly-express.duckdns.org
+0.0.0.0 dragonfly-servic.duckdns.org
 0.0.0.0 dsbzk.comfortykive.xyz
 0.0.0.0 dsfdsfxcfddsf.blob.core.windows.net
 0.0.0.0 dtcc.fr
@@ -2006,6 +2009,7 @@
 0.0.0.0 gtamoding.fr
 0.0.0.0 gtiruto.shop
 0.0.0.0 guangjiemiao.com
+0.0.0.0 guestenviteesign.vu
 0.0.0.0 guidelon.fr
 0.0.0.0 guiltygear.fr
 0.0.0.0 guthealth.sa.com
@@ -2746,10 +2750,12 @@
 0.0.0.0 refund-int3rac.com
 0.0.0.0 regclassboard.com
 0.0.0.0 reliezvous.fr
+0.0.0.0 reminderannual2reward.com
 0.0.0.0 renacious.nwwadq.cn
 0.0.0.0 renov-landes.fr
 0.0.0.0 rentacars.fr
 0.0.0.0 rentamotorcycle.fr
+0.0.0.0 reschedulepack1029.com
 0.0.0.0 resetcibc-logincibc.com
 0.0.0.0 residence.bunkerhilltradingco.info
 0.0.0.0 reskins.fr
@@ -2903,6 +2909,7 @@
 0.0.0.0 spotchannel02.com
 0.0.0.0 srothuynguyen.com
 0.0.0.0 ssephora.fr
+0.0.0.0 stablereealgift.com
 0.0.0.0 stackoverflow.xyz
 0.0.0.0 star-iptv.fr
 0.0.0.0 starbuckssurvey.life

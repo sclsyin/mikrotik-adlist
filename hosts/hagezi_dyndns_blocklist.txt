@@ -1,6 +1,6 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
-! Version: 1.0.17.21
-! Last modified: 2026-10-11T06:33:21.660Z
+! Version: 1.0.17.30
+! Last modified: 2026-11-15T13:13:42.444Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
 0.0.0.0 dyn.addr.tools
 0.0.0.0 changeip.co.uk
@@ -20,6 +20,7 @@
 0.0.0.0 h4g3z1-dyndns.web.app
 0.0.0.0 dyndns.za.org
 0.0.0.0 0000000000000000000000.com
+0.0.0.0 001www.com
 0.0.0.0 0rg.us
 0.0.0.0 0x.no
 0.0.0.0 100mountain.com
@@ -46,7 +47,6 @@
 0.0.0.0 3trust.com
 0.0.0.0 3utilities.com
 0.0.0.0 404.mn
-0.0.0.0 4cloud.click
 0.0.0.0 4dq.com
 0.0.0.0 4khdcamera.com
 0.0.0.0 4mydomain.com
@@ -79,9 +79,7 @@
 0.0.0.0 anastasion.com
 0.0.0.0 aneisa.com
 0.0.0.0 angelcamddns.com
-0.0.0.0 annaffiare.org
 0.0.0.0 anondns.net
-0.0.0.0 antongorbunov.com
 0.0.0.0 any64.de
 0.0.0.0 anyitsolution.com
 0.0.0.0 api64.de
@@ -105,7 +103,6 @@
 0.0.0.0 australia.ai
 0.0.0.0 authorizeddns.net
 0.0.0.0 authorizeddns.org
-0.0.0.0 authorizeddns.us
 0.0.0.0 autoipset.com
 0.0.0.0 avandns.com
 0.0.0.0 awiki.org
@@ -128,7 +125,6 @@
 0.0.0.0 bgdsupport.com
 0.0.0.0 bhms.com
 0.0.0.0 bigbluezoo.com
-0.0.0.0 bigmoney.biz
 0.0.0.0 bine.me
 0.0.0.0 birdriver.org
 0.0.0.0 biz.st
@@ -140,6 +136,7 @@
 0.0.0.0 blogdns.net
 0.0.0.0 blogdns.org
 0.0.0.0 blogsite.org
+0.0.0.0 blogsite.xyz
 0.0.0.0 blogsyte.com
 0.0.0.0 bloodforthebloodgod.com
 0.0.0.0 bloom.us
@@ -148,6 +145,7 @@
 0.0.0.0 boldlygoingnowhere.org
 0.0.0.0 bot.nu
 0.0.0.0 bounceme.net
+0.0.0.0 bouncers4rent.com
 0.0.0.0 boxathome.net
 0.0.0.0 brajkovic.com
 0.0.0.0 brasilia.me
@@ -208,6 +206,7 @@
 0.0.0.0 cloudns.pro
 0.0.0.0 cloudwatch.net
 0.0.0.0 cloudxns.net
+0.0.0.0 cmirg.com
 0.0.0.0 cnstefancelmare.ro
 0.0.0.0 coalnet.ru
 0.0.0.0 codns.com
@@ -259,7 +258,6 @@
 0.0.0.0 ddnsgeek.com
 0.0.0.0 ddnsguru.com
 0.0.0.0 ddnsking.com
-0.0.0.0 ddnslive.com
 0.0.0.0 ddnss.ch
 0.0.0.0 ddnss.de
 0.0.0.0 ddnss.eu
@@ -278,11 +276,9 @@
 0.0.0.0 digitalgroupe.com
 0.0.0.0 dip.jp
 0.0.0.0 diskstation.eu
-0.0.0.0 diskstation.me
 0.0.0.0 diskstation.org
 0.0.0.0 ditchyourip.com
 0.0.0.0 dive2.net
-0.0.0.0 divx.se
 0.0.0.0 diyplans.org
 0.0.0.0 dlinkddns.com
 0.0.0.0 dmtr.ru
@@ -350,12 +346,7 @@
 0.0.0.0 drayddns.com
 0.0.0.0 dropfiles.net
 0.0.0.0 drunkensailor.org
-0.0.0.0 dscloud.me
-0.0.0.0 dscloud.mobi
 0.0.0.0 dsmtp.com
-0.0.0.0 dsmynas.com
-0.0.0.0 dsmynas.net
-0.0.0.0 dsmynas.org
 0.0.0.0 dtdns.com
 0.0.0.0 dtdns.net
 0.0.0.0 dtdns.org
@@ -502,11 +493,9 @@
 0.0.0.0 f-parts.net
 0.0.0.0 f3322.net
 0.0.0.0 f3322.org
+0.0.0.0 fagdns.com
 0.0.0.0 fairuse.org
 0.0.0.0 falcongreen.com
-0.0.0.0 familyds.com
-0.0.0.0 familyds.net
-0.0.0.0 familyds.org
 0.0.0.0 fantasyleague.cc
 0.0.0.0 faqserv.com
 0.0.0.0 farted.net
@@ -651,7 +640,6 @@
 0.0.0.0 gslb.me
 0.0.0.0 gteksecurity.com
 0.0.0.0 gtk.cl
-0.0.0.0 guardz.ru
 0.0.0.0 guild-site.com
 0.0.0.0 gurcanozturk.com
 0.0.0.0 gurdit.com
@@ -722,7 +710,6 @@
 0.0.0.0 hulichicken.com
 0.0.0.0 humorvisite.eu
 0.0.0.0 hunnur.com
-0.0.0.0 i234.me
 0.0.0.0 iamallama.com
 0.0.0.0 ics.tw
 0.0.0.0 ideasciviles.com
@@ -749,7 +736,6 @@
 0.0.0.0 invitee.net
 0.0.0.0 ionexusa.com
 0.0.0.0 iot64.de
-0.0.0.0 iownyour.biz
 0.0.0.0 iownyour.org
 0.0.0.0 ip-ddns.com
 0.0.0.0 ip-dynamic.com
@@ -879,11 +865,9 @@
 0.0.0.0 kanda.ru
 0.0.0.0 kaohsiung.tv
 0.0.0.0 kck-saratov.ru
-0.0.0.0 keenetic.link
-0.0.0.0 keenetic.name
-0.0.0.0 keenetic.pro
 0.0.0.0 keine-panik.net
 0.0.0.0 kellserve.com
+0.0.0.0 kfco.net
 0.0.0.0 kicks-ass.net
 0.0.0.0 kicks-ass.org
 0.0.0.0 klapa.eu
@@ -978,7 +962,6 @@
 0.0.0.0 mmafan.biz
 0.0.0.0 mnode.net
 0.0.0.0 moneyhome.biz
-0.0.0.0 monitorip.com
 0.0.0.0 monopolepower.com
 0.0.0.0 moonangel.com
 0.0.0.0 mooo.com
@@ -1011,7 +994,6 @@
 0.0.0.0 mydissent.net
 0.0.0.0 mydns.bz
 0.0.0.0 mydns.jp
-0.0.0.0 myds.me
 0.0.0.0 myeffect.net
 0.0.0.0 myftp.biz
 0.0.0.0 myftp.info
@@ -1047,7 +1029,6 @@
 0.0.0.0 mysecuritycamera.net
 0.0.0.0 mysecuritycamera.org
 0.0.0.0 myserver.org
-0.0.0.0 mysynology.net
 0.0.0.0 myvnc.com
 0.0.0.0 mywebworld.info
 0.0.0.0 mywire.org
@@ -1056,7 +1037,6 @@
 0.0.0.0 myz.info
 0.0.0.0 n-e-t.name
 0.0.0.0 n0p.at
-0.0.0.0 n4t.co
 0.0.0.0 nard.ca
 0.0.0.0 nas64.de
 0.0.0.0 nat-ddns.com
@@ -1078,6 +1058,7 @@
 0.0.0.0 nflfan.org
 0.0.0.0 nhlfan.net
 0.0.0.0 ninth.biz
+0.0.0.0 nip.io
 0.0.0.0 no-domain.name
 0.0.0.0 no-ip.biz
 0.0.0.0 no-ip.ca
@@ -1114,7 +1095,6 @@
 0.0.0.0 ns2.name
 0.0.0.0 ns3.name
 0.0.0.0 nsupdate.info
-0.0.0.0 ntdll.top
 0.0.0.0 nufszone.com
 0.0.0.0 nx.tc
 0.0.0.0 ocry.com
@@ -1227,11 +1207,13 @@
 0.0.0.0 routemehome.com
 0.0.0.0 roxa.org
 0.0.0.0 rpz.su
+0.0.0.0 rr.nu
 0.0.0.0 rtam.net
 0.0.0.0 rum.si
 0.0.0.0 run.place
 0.0.0.0 rundis.com
 0.0.0.0 ruok.org
+0.0.0.0 russkoeumea.com
 0.0.0.0 rwbcode.com
 0.0.0.0 ryointernational.com
 0.0.0.0 sandmeiers.ch
@@ -1345,7 +1327,6 @@
 0.0.0.0 srv64.de
 0.0.0.0 srvdns.de
 0.0.0.0 ssitech.bg
-0.0.0.0 ssl443.org
 0.0.0.0 sslip.io
 0.0.0.0 ssmailer.com
 0.0.0.0 star.is
@@ -1355,6 +1336,7 @@
 0.0.0.0 stocktester.ru
 0.0.0.0 stoupin.ru
 0.0.0.0 strangled.net
+0.0.0.0 stroyexpert.org
 0.0.0.0 stuff-4-sale.org
 0.0.0.0 stuff-4-sale.us
 0.0.0.0 stufftoread.com
@@ -1362,6 +1344,7 @@
 0.0.0.0 stuns.org
 0.0.0.0 sumibi.org
 0.0.0.0 sundby.com
+0.0.0.0 surak.kz
 0.0.0.0 surfnet.ca
 0.0.0.0 suroot.com
 0.0.0.0 swoop2.me
@@ -1422,6 +1405,7 @@
 0.0.0.0 tvlinux.com
 0.0.0.0 twilightparadox.com
 0.0.0.0 twodns.de
+0.0.0.0 twsuser.com
 0.0.0.0 tzo.com
 0.0.0.0 ucvradio.cl
 0.0.0.0 udp64.de
@@ -1451,7 +1435,6 @@
 0.0.0.0 venez.net
 0.0.0.0 verymad.net
 0.0.0.0 viamisoftware.com
-0.0.0.0 vicinanza.org
 0.0.0.0 vicp.cc
 0.0.0.0 vicp.net
 0.0.0.0 vietnamddns.com

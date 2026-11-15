@@ -1,7 +1,10 @@
 ! Original: https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt
-! Version: 1.0.18.77
-! Last modified: 2026-10-11T06:32:50.964Z
+! Version: 1.0.18.86
+! Last modified: 2026-11-15T13:13:08.508Z
 ! Transformed by: https://github.com/IgorKha/mikrotik-adlist
+0.0.0.0 insightjs.com
+0.0.0.0 insightjs.org
+0.0.0.0 dga9amo.website
 0.0.0.0 profitableratecpmnetwork.com
 0.0.0.0 acceptablefabric.com
 0.0.0.0 dtvyyf.com
@@ -267,7 +270,6 @@
 0.0.0.0 adtraction.com
 0.0.0.0 advertisoo.com
 0.0.0.0 adx1.com
-0.0.0.0 affcpatrk.com
 0.0.0.0 affflow.com
 0.0.0.0 affiliatestonybet.com
 0.0.0.0 affiliride.com
@@ -279,8 +281,6 @@
 0.0.0.0 ak-is2.net
 0.0.0.0 albonsa.com
 0.0.0.0 alexatracker.com
-0.0.0.0 alpine-vpn.com
-0.0.0.0 amusing-injury.com
 0.0.0.0 animeloundry.com
 0.0.0.0 antiadblocksystems.com
 0.0.0.0 appointeeivyspongy.com
@@ -295,7 +295,6 @@
 0.0.0.0 auroraveil.bid
 0.0.0.0 auto-ads6.site
 0.0.0.0 avlmy.com
-0.0.0.0 avogex.com
 0.0.0.0 awecrptjmp.com
 0.0.0.0 bayshorline.com
 0.0.0.0 bbmoe.com
@@ -333,7 +332,6 @@
 0.0.0.0 career-mesh.com
 0.0.0.0 cashgzb.com
 0.0.0.0 casinobonusdeals.io
-0.0.0.0 cauditcommernal.com
 0.0.0.0 cawsg.com
 0.0.0.0 cddtsecure.com
 0.0.0.0 ceramicturtleremnant.com
@@ -385,7 +383,6 @@
 0.0.0.0 dsb68d.com
 0.0.0.0 dsp5stero.com
 0.0.0.0 earlinessone.xyz
-0.0.0.0 easelegbike.com
 0.0.0.0 easyconverts.com
 0.0.0.0 eeco.xyz
 0.0.0.0 efficientorbit.co
@@ -402,7 +399,6 @@
 0.0.0.0 fastdntrk.com
 0.0.0.0 finanvideos.com
 0.0.0.0 flyingadvert.com
-0.0.0.0 foerpo.com
 0.0.0.0 foflf.com
 0.0.0.0 forgetnet.xyz
 0.0.0.0 foruftuiov.com
@@ -410,7 +406,6 @@
 0.0.0.0 frequentjam.com
 0.0.0.0 fstsrv9.com
 0.0.0.0 fuck-ads.vercel.app
-0.0.0.0 fzev75-rtbix.top
 0.0.0.0 galaxypush.com
 0.0.0.0 gamazi.com
 0.0.0.0 gamerhit.co
@@ -437,17 +432,14 @@
 0.0.0.0 haveameet.com
 0.0.0.0 helicient.com
 0.0.0.0 heptix.net
-0.0.0.0 hetapus.com
 0.0.0.0 hfr67jhqrw8.com
 0.0.0.0 hiasor.com
 0.0.0.0 highcpmgate.com
 0.0.0.0 hiiona.com
 0.0.0.0 hilltopads.net
 0.0.0.0 hnrgmc.com
-0.0.0.0 hoktrips.com
 0.0.0.0 hooligs.app
 0.0.0.0 hooliredir.com
-0.0.0.0 horonstogly.com
 0.0.0.0 hoveltran.xyz
 0.0.0.0 hubrisone.com
 0.0.0.0 hugeedate.com
@@ -535,7 +527,6 @@
 0.0.0.0 myafriend.com
 0.0.0.0 mylot.com
 0.0.0.0 mynutraresearch.com
-0.0.0.0 mytdsnet.com
 0.0.0.0 n91hg.com
 0.0.0.0 nan0cns.com
 0.0.0.0 navigatingnautical.xyz
@@ -551,12 +542,10 @@
 0.0.0.0 nrs6ffl9w.com
 0.0.0.0 ntesgsght.com
 0.0.0.0 ntrftrksec.com
-0.0.0.0 numbertrck.com
 0.0.0.0 nutchaungong.com
 0.0.0.0 nwwrtbbit.com
 0.0.0.0 nxt-psh.com
 0.0.0.0 obtaintrout.com
-0.0.0.0 offergate-ecommerce-cdn5.com
 0.0.0.0 offergate-software11.com
 0.0.0.0 offergate-software20.com
 0.0.0.0 offergate-software6.com
@@ -661,7 +650,6 @@
 0.0.0.0 rtbix.xyz
 0.0.0.0 rtbreachads.com
 0.0.0.0 s3g6.com
-0.0.0.0 sabasadara.com
 0.0.0.0 safeonlinetips.com
 0.0.0.0 savinist.com
 0.0.0.0 scarfstartpickle.com
@@ -701,6 +689,7 @@
 0.0.0.0 superfasti.co
 0.0.0.0 sxlflt.com
 0.0.0.0 synccora.com
+0.0.0.0 t.coretrck.uno
 0.0.0.0 targeta41.net
 0.0.0.0 targetmatch.co
 0.0.0.0 tatrck.com
@@ -723,7 +712,6 @@
 0.0.0.0 track.afrsportsbetting.com
 0.0.0.0 track.bwclk.com
 0.0.0.0 tracker-2.com
-0.0.0.0 tracker-tds.info
 0.0.0.0 tracking-aws-5.com
 0.0.0.0 tracking-zy.com
 0.0.0.0 trackingtraffo.com
@@ -741,9 +729,7 @@
 0.0.0.0 typical-hub.com
 0.0.0.0 unlocky.org
 0.0.0.0 unlocky.xyz
-0.0.0.0 upodaitie.net
 0.0.0.0 utm-campaign.com
-0.0.0.0 validcombine.com
 0.0.0.0 vasstycom.com
 0.0.0.0 verdepromo.info
 0.0.0.0 vfgte.com
@@ -754,7 +740,6 @@
 0.0.0.0 viiyutty.com
 0.0.0.0 viiyxefb.com
 0.0.0.0 vilytaku.com
-0.0.0.0 viralnewsbd.xyz
 0.0.0.0 viralvideoclip.info
 0.0.0.0 virelon.com
 0.0.0.0 vizoalygrenn.com
@@ -785,6 +770,7 @@
 0.0.0.0 zk1w.com
 0.0.0.0 zrlqm.com
 0.0.0.0 ea6c0ac4.xyz
+0.0.0.0 html-load.cc
 0.0.0.0 img-load.com
 0.0.0.0 1lzz.com
 0.0.0.0 1ts11.top
@@ -963,6 +949,7 @@
 0.0.0.0 gsurl.me
 0.0.0.0 hhsp2.com
 0.0.0.0 hotboys.biz
+0.0.0.0 ilovego.org
 0.0.0.0 incontro-veloce.com
 0.0.0.0 infokz.com
 0.0.0.0 investing1.com
